@@ -16,12 +16,12 @@ Philosophers and theorists disagree about how the concepts of *game*, *sport*, a
 
 In this model, the circles are **nested and partially overlapping**. Game and Play are large outer categories; Sport sits at their intersection, with a further inner region (3) shared by all three.
 
-| Region | What it represents | Your example |
-|--------|-------------------|--------------|
-| **1** — Game only | An activity that is a game but neither a sport nor play | |
-| **2** — Sport ∩ Game (not Play) | An activity that is both a sport and a game but not play | |
-| **3** — Sport ∩ Game ∩ Play | An activity that is all three simultaneously | |
-| **4** — Play only | An activity that is pure play — neither a game nor a sport | |
+| Region |   Your example |
+|--------| --------------|
+| **1** — Game only |  |
+| **2** — Sport ∩ Game (not Play) |  |
+| **3** — Sport ∩ Game ∩ Play |   |
+| **4** — Play only |   |
 
 ---
 
