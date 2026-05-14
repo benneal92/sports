@@ -12,7 +12,7 @@ Philosophers and theorists disagree about how the concepts of *game*, *sport*, a
 
 ### Model A — Nested Circles
 
-![Model A: Nested Venn diagram showing Game containing Sport, Sport overlapping with Play](nested.png)
+![Model A: Nested Venn diagram showing Game containing Sport, Sport overlapping with Play](images/nested.png)
 
 In this model, the circles are **nested and partially overlapping**. Game and Play are large outer categories; Sport sits at their intersection, with a further inner region (3) shared by all three.
 
@@ -27,7 +27,7 @@ In this model, the circles are **nested and partially overlapping**. Game and Pl
 
 ### Model B — Three Equal Circles
 
-![Model B: Triadic Venn diagram with Play, Game, and Sport as three equal overlapping circles](triadic.png)
+![Model B: Triadic Venn diagram with Play, Game, and Sport as three equal overlapping circles](images/triadic.png)
 
 In this model, all three concepts are **equal and independent**, each capable of existing without the others, and each overlapping the others in distinct ways.
 
