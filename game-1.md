@@ -1,7 +1,3 @@
-# What Is Play? A Philosophical Inquiry
-
-> *Explore the boundaries between **Game**, **Sport**, and **Play** — and where they blur.*
-
 ---
 
 ## Part 1: Two Models of the Relationship
