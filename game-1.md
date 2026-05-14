@@ -1,8 +1,8 @@
 ---
 
-## Part 1: Two Models of the Relationship
+## Part 1: Two Models
 
-Philosophers and theorists disagree about how the concepts of *game*, *sport*, and *play* relate to one another. Below are two competing representations. Study each carefully before moving on.
+Philosophers and theorists disagree about how the concepts of *game*, *sport*, and *play* relate to one another. Below are two competing representations. Study each carefully before moving on. Provide an example for each number of each model or explain why it is invalid. 
 
 ---
 
