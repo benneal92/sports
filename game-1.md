@@ -10,11 +10,16 @@ Philosophers and theorists disagree about how the concepts of *game*, *sport*, a
 
 ![Model A: Nested Venn diagram showing Game containing Sport, Sport overlapping with Play](images/nested.png)
 
-**1**   
-**2**  
-**3**   
-**4**  
- 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
  
 
 ---
@@ -23,14 +28,16 @@ Philosophers and theorists disagree about how the concepts of *game*, *sport*, a
 
 ![Model B: Triadic Venn diagram with Play, Game, and Sport as three equal overlapping circles](images/triadic.png)
 
-**1**   
-**2**  
-**3**   
-**4**  
-**5**   
-**6**    
-**7**  
-  
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ---
 
 ## Part 2: Reflection
