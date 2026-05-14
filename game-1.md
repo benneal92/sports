@@ -27,15 +27,15 @@ In this model, the circles are **nested and partially overlapping**. Game and Pl
 
 In this model, all three concepts are **equal and independent**, each capable of existing without the others, and each overlapping the others in distinct ways.
 
-| Region | What it represents | Your example |
-|--------|-------------------|--------------|
-| **1** — Play only | An activity that is purely play, with no game or sport elements | |
-| **2** — Play ∩ Game (not Sport) | An activity that is play and a game, but not a sport | |
-| **3** — Play ∩ Game ∩ Sport | An activity that is all three simultaneously | |
-| **4** — Play ∩ Sport (not Game) | An activity that is play and a sport, but not a game | |
+| Region | Your example |
+|--------|--------------|
+| **1** — Play only |   |
+| **2** — Play ∩ Game (not Sport) | |
+| **3** — Play ∩ Game ∩ Sport | |
+| **4** — Play ∩ Sport (not Game) | |
 | **5** — Game only | An activity that is a game but neither sport nor play | |
-| **6** — Game ∩ Sport (not Play) | An activity that is both a game and a sport, but not play | |
-| **7** — Sport only | An activity that is a sport but neither a game nor play | |
+| **6** — Game ∩ Sport (not Play) |  |
+| **7** — Sport only |   |
 
 ---
 
