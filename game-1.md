@@ -39,8 +39,6 @@ In this model, all three concepts are **equal and independent**, each capable of
 
 ## Part 2: Reflection
 
-Once you have filled in examples above, consider the following questions. Write your responses in the space provided.
-
 ---
 
 ### 2a. Which model do you prefer, and why?
