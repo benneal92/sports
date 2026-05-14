@@ -1,4 +1,4 @@
-# The Moral Status of Winning: A Philosophical Inquiry
+# Game 2
 ---
 
 ## Part 1: The Permissibility Spectrum
