@@ -1,4 +1,4 @@
-# Game 1
+# Game 1 - What are they?
 ---
 
 ## Part 1: Analysis
