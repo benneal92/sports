@@ -1,0 +1,100 @@
+# What Is Play? A Philosophical Inquiry
+
+> *Explore the boundaries between **Game**, **Sport**, and **Play** — and where they blur.*
+
+---
+
+## Part 1: Two Models of the Relationship
+
+Philosophers and theorists disagree about how the concepts of *game*, *sport*, and *play* relate to one another. Below are two competing representations. Study each carefully before moving on.
+
+---
+
+### Model A — Nested Circles
+
+![Model A: Nested Venn diagram showing Game containing Sport, Sport overlapping with Play](nested.png)
+
+In this model, the circles are **nested and partially overlapping**. Game and Play are large outer categories; Sport sits at their intersection, with a further inner region (3) shared by all three.
+
+| Region | What it represents | Your example |
+|--------|-------------------|--------------|
+| **1** — Game only | An activity that is a game but neither a sport nor play | |
+| **2** — Sport ∩ Game (not Play) | An activity that is both a sport and a game but not play | |
+| **3** — Sport ∩ Game ∩ Play | An activity that is all three simultaneously | |
+| **4** — Play only | An activity that is pure play — neither a game nor a sport | |
+
+---
+
+### Model B — Three Equal Circles
+
+![Model B: Triadic Venn diagram with Play, Game, and Sport as three equal overlapping circles](triadic.png)
+
+In this model, all three concepts are **equal and independent**, each capable of existing without the others, and each overlapping the others in distinct ways.
+
+| Region | What it represents | Your example |
+|--------|-------------------|--------------|
+| **1** — Play only | An activity that is purely play, with no game or sport elements | |
+| **2** — Play ∩ Game (not Sport) | An activity that is play and a game, but not a sport | |
+| **3** — Play ∩ Game ∩ Sport | An activity that is all three simultaneously | |
+| **4** — Play ∩ Sport (not Game) | An activity that is play and a sport, but not a game | |
+| **5** — Game only | An activity that is a game but neither sport nor play | |
+| **6** — Game ∩ Sport (not Play) | An activity that is both a game and a sport, but not play | |
+| **7** — Sport only | An activity that is a sport but neither a game nor play | |
+
+---
+
+## Part 2: Reflection
+
+Once you have filled in examples above, consider the following questions. Write your responses in the space provided.
+
+---
+
+### 2a. Which model do you prefer, and why?
+
+*Argue for your preferred model. Consider: Does one model capture real-world cases better? Does one make cleaner philosophical distinctions? Are there activities your preferred model handles that the other cannot?*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+### 2b. What does your preferred model imply about the *defining features* of each concept?
+
+*For example: if you prefer Model B (three equal circles), what must be true of "sport" that makes it independent from "game"? What is the essential difference between them?*
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+### 2c. Challenge case
+
+Pick **one** of your examples from the tables above that you found hardest to place. Explain the difficulty, and say whether that difficulty counts as evidence against one of the models.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
+*Further reading: Bernard Suits, **The Grasshopper: Games, Life and Utopia** (1978); Johan Huizinga, **Homo Ludens** (1938); William Morgan, **Leftist Theories of Sport** (1994).*
