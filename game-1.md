@@ -1,6 +1,6 @@
 ---
 
-## Part 1: Two Models
+## Part 1: Analysis of Game, Sport, and Play
 
 Philosophers and theorists disagree about how the concepts of *game*, *sport*, and *play* relate to one another. Below are two competing representations. Study each carefully and provide an example for each number of each model or explain why you think it is invalid. 
 
