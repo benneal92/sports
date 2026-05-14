@@ -1,4 +1,4 @@
-# Game 1 - Philosphical Analysis
+# Game 1
 ---
 
 ## Part 1: Analysis
