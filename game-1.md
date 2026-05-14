@@ -84,5 +84,3 @@ Pick **one** of your examples from the tables above that you found hardest to pl
 &nbsp;
 
 ---
-
-*Further reading: Bernard Suits, **The Grasshopper: Games, Life and Utopia** (1978); Johan Huizinga, **Homo Ludens** (1938); William Morgan, **Leftist Theories of Sport** (1994).*
