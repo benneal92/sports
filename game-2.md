@@ -1,7 +1,4 @@
 # The Moral Status of Winning: A Philosophical Inquiry
-
-> *Every sport has a rulebook. But rules alone don't settle what it means to compete **well**.*
-
 ---
 
 ## Part 1: The Permissibility Spectrum
@@ -199,6 +196,4 @@ Write two to three sentences presenting the strongest possible objection to the 
 
 &nbsp;
 
----
 
-*Further reading: Bernard Suits, **The Grasshopper: Games, Life and Utopia** (1978); Fred D'Agostino, "The Ethos of Games" in **Journal of the Philosophy of Sport** (1981); William Morgan, **Leftist Theories of Sport** (1994); Nicholas Dixon, "On Winning and Athletic Superiority" in **Journal of the Philosophy of Sport** (1999).*
