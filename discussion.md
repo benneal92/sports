@@ -1,12 +1,15 @@
+# Part 1
 ### Icebreaker 
 
 What do you think philosophy of sport is and how might it be useful?
 
 ## Philosophy, Democracy, and Athletics
 
-The ancient Greeks did not separate athletics from intellectual and civic life — they understood them as deeply intertwined. The Olympic Games were not merely entertainment; they were religious festivals, political statements, and arenas where philosophical questions played out in flesh and blood. The same culture that invented democracy also invented the gymnasium, the philosophical dialogue, and the Panhellenic athletic festival. Thinkers like Plato and Aristotle took sport seriously as a mirror of the soul and the city.
+In 776 BCE, the founding of the Olympic Games at Olympia marked the emergence of new Greek ideas about competition and human excellence. The Panhellenic festival drew participants from across the Greek world, and although limited to free Greek males, it stood out for transcending distinctions of birth and wealth. All competitors submitted to the same authoritative rules; cheaters were fined, and their penalties funded statues of Zeus that reminded future athletes of the moral stakes of the Games.
 
-Heather L. Reid's work invites us to recover that seriousness — to ask what sport *means*, not just how it *works*. The Greeks saw competition (*agōn*) not as a distraction from the good life but as one of its primary expressions. Victory in the games conferred *timē* (honor) and was understood as evidence of *aretē* (excellence) — the same quality sought by the philosopher and the democratic citizen. Today we explore those origins: how democracy, philosophy, and athletics were born in the same cultural moment, and what that convergence still has to teach us.
+The Olympics were never mere entertainment. They were religious festivals, political theaters, and arenas where philosophical questions were enacted in body and motion.
+
+**Heather Reid**’s work urges us to recover that seriousness — to ask what sport means, not merely how it functions. For the Greeks, competition (agōn) was not a diversion from the good life but one of its highest expressions. Victory conferred timē (honor) and revealed aretē (excellence), the same quality pursued by philosophers and demanded of democratic citizens.
 
 ### Discussion Questions
 
@@ -18,48 +21,20 @@ Heather L. Reid's work invites us to recover that seriousness — to ask what sp
 
 4. What does athletic competition reveal about human nature that other activities might not?
 
-## Play, Game, and Sport
+## Ways of Knowing
 
-Bernard Suits, in *The Grasshopper: Games, Life and Utopia*, proposed that playing a game means "the voluntary attempt to overcome unnecessary obstacles." A golfer could simply carry the ball to the hole — the rules forbid it. The whole point is the self-imposed constraint. On this view, the essence of sport is *chosen difficulty*.
+When we think about epistemology, we often default to **propositional knowledge** within a **traditional analytic frame** — the Platonic inheritance. Logic and science are built on propositions, and their success seems to vindicate the approach. On this view, knowledge is justified true belief.
+Yet this is only one way of imagining what it means to know.
 
-Johan Huizinga, in *Homo Ludens*, went further back: play is not just a feature of games or sports, it is a fundamental category of human (and animal) life — free, voluntary, absorbing, set apart from "ordinary" life by its own rules and space. Culture itself, he argued, *arises in and as* play.
+**Gilbert Ryle** famously distinguished **knowing that** from **knowing how**. To know that water boils at 100°C is propositional; it can be stated, tested, transmitted. But to know how to ride a bicycle is something else entirely: no list of propositions will teach you balance. Sport is saturated with this second kind of knowledge — refined, embodied, and often inaccessible to language.
 
-These two accounts are not obviously compatible. And neither maps easily onto what we mean when we say the World Cup is *sport* rather than merely a *game* or a form of *play*.
+**Michael Polanyi** called this **tacit knowledge**: “we know more than we can tell.” But how much more? And what follows from that for coaching, learning, and expertise?
 
-### Discussion Questions
-
-1. Before any definitions — what is the first thing that comes to mind when you hear the word *play*? What about *game*? What about *sport*? Are they the same feeling, or different? What does the difference in intuition tell us?
-
-2. A child kicking a ball against a wall alone: is that play, a game, sport, or none of the above? What changes if a second child joins and they start keeping score? What changes if they join a league?
-
-3. Suits argues that the rules of a game are *constitutive* — they don't restrict an activity that could exist without them, they *create* the activity. Without the rules of chess, there is no chess, only pieces on a board. Do you find this convincing? Can you think of a sport where this seems wrong — where the sport feels more natural or prior to its rules?
-
-4. Wittgenstein says: look at what we actually call "games" — ring-around-the-rosy, chess, tennis, solitaire — and you will find no single shared feature, only a criss-crossing network of similarities. If he is right, is the philosophy of sport even possible? Or is it just a debate about how to draw an arbitrary line?
-
-5. Is there a meaningful distinction between **play** and **sport**? Some candidates:
-   - Sport requires rules; play does not
-   - Sport requires competition; play does not
-   - Sport requires physical skill; play does not
-   - Sport is institutionalized; play is spontaneous
-   Which of these, if any, actually does the work? Can you construct a counterexample to each?
-
-6. Professional athletes are paid to compete. They have contracts, obligations, performance targets. Are they *playing* in any meaningful sense? Has professional sport abolished play — or does it represent play's highest expression?
-
-**Closing Bridge (10 min)**
-
-7. Suits says the lusory attitude — the willingness to accept the rules as constitutive — is what makes someone a *player* rather than a mere competitor or a cheat. A cheat accepts the goal but not the rules; a spoilsport rejects both. Where does the *over-coached*, fully professionalized elite athlete sit on this spectrum? Are they still a player in Suits' sense — and does it matter?
-
-## Sports Epistemology
-
-Gilbert Ryle distinguished *knowing that* from *knowing how*. To know that water boils at 100°C is propositional knowledge — it can be written down, transmitted, tested. To know how to ride a bicycle is something else entirely: it cannot be fully captured in any set of propositions, and reading a manual will not teach you to balance. Sport is saturated with *knowing how* of the most extreme and refined kind.
-
-Michael Polanyi called this **tacit knowledge**: "we know more than we can tell." But how much more? And what are the implications for coaching, for learning, for the nature of expertise? The deepest puzzle is this: if elite athletic knowledge is genuinely tacit — pre-reflective, embodied, resistant to articulation — then how is it ever taught?
+The central puzzle is this: if elite athletic knowledge is genuinely tacit — pre-reflective, embodied, resistant to articulation — then how is it ever taught? What does it mean to transmit something that cannot be fully said?
 
 ### Discussion Questions
 
-1. Think of something physical you know how to do — drive a car, type, swim. Try right now to articulate *exactly* what you do. Where does the description break down? What does that breakdown feel like?
-
-2. A football commentator can describe a great pass in precise technical terms — weight, angle, timing. Does that description *capture* what the passer knew when they made it? Is there a remainder — something the description leaves out — and if so, what is its nature?
+1. A football commentator can describe a great pass in precise technical terms — weight, angle, timing. Does that description *capture* what the passer knew when they made it? Is there a remainder — something the description leaves out — and if so, what is its nature.
 
 3. Hubert Dreyfus, drawing on Heidegger, argued that skill development moves through stages: the novice follows explicit rules; the expert *abandons* them in favor of absorbed, intuitive coping. The rules become invisible — the expert is no longer aware of applying them. Does this match your experience of learning a physical skill? And if expertise means leaving rules behind, what does that say about coaching? Is the best coach someone who eventually teaches you to *stop listening to coaches*?
 
@@ -73,11 +48,15 @@ Michael Polanyi called this **tacit knowledge**: "we know more than we can tell.
 
 ## Sports Aesthetics
 
-David Best drew a distinction between **purposive sports** and **aesthetic sports**. In purposive sports (football, boxing, sprinting), the aesthetic dimension is incidental — you win however you can, and beauty is a byproduct at best. In aesthetic sports (gymnastics, diving, figure skating), the aesthetic *is* the performance criterion; you cannot separate the how from the what.
+**David Best** drew a distinction between **purposive sports** and **aesthetic sports**. In purposive sports (football, boxing, sprinting), the aesthetic dimension is incidental — you win however you can, and beauty is a byproduct at best. In aesthetic sports (gymnastics, diving, figure skating), the aesthetic *is* the performance criterion; you cannot separate the how from the what.
 
 But this distinction keeps collapsing. We speak of a "beautiful" tackle, an "elegant" solution, a "poetry in motion" winger. And in aesthetic sports, the competitive frame reintroduces a goal — scoring higher than your rival — that sits uneasily with purely aesthetic values. The figure skater is not *just* creating; she is trying to win.
 
 ### Discussion Questions
+
+1. Why do you think figure skating is generally seen as a sport while ballet is often considered an art?
+
+2. 
 
 15. Is the phrase "the beautiful game" a marketing slogan, a genuine aesthetic claim, or a moral claim about what football *should* be? Can a game played with maximum effectiveness but zero elegance — long balls, pressing, set pieces — still be *good* football? Is there a normative standard here beyond mere taste?
 
@@ -90,6 +69,16 @@ But this distinction keeps collapsing. We speak of a "beautiful" tackle, an "ele
 19. Consider the relationship between *constraint* and *beauty* in sport. The rules of a sonnet — 14 lines, iambic pentameter, a specific rhyme scheme — are constraints that enable, rather than prevent, a particular kind of beauty. Is it the same with sport? Does the offside rule, the size of the goal, the prohibition on using hands — do these constraints *generate* soccer's aesthetic possibilities rather than limit them?
 
 20. If sports have genuine aesthetic value — not just entertainment value, but something closer to artistic value — then who is the aesthetic experience *for*? The athlete, the spectator, or both? And does the massification of sport through television, streaming, and global broadcast change the nature of that aesthetic experience — turning it into what Guy Debord called **spectacle**: a representation of life that substitutes for life itself?
+
+
+# Part 2
+## Play, Game, and Sport
+
+**Bernard Suits**, in *The Grasshopper: Games, Life and Utopia*, proposed that playing a game means "the voluntary attempt to overcome unnecessary obstacles." A golfer could simply carry the ball to the hole — the rules forbid it. The whole point is the self-imposed constraint. On this view, the essence of sport is *chosen difficulty*.
+
+**Johan Huizinga**, in *Homo Ludens*, went further back: play is not just a feature of games or sports, it is a fundamental category of human (and animal) life — free, voluntary, absorbing, set apart from "ordinary" life by its own rules and space. Culture itself, he argued, *arises in and as* play.
+
+These two accounts are not obviously compatible. 
 
 
 ## The World Cup
@@ -117,11 +106,7 @@ Is there a football *language* that transcends cultural difference — or are th
 How do we reconcile the prepared and the spontaneous, the analytical and the intuitive, in understanding what a great World Cup performance *is*?
 
 **On Aesthetics and Ethics (15 min)**
-
-25. Qatar 2022 was built by migrant workers under conditions that resulted in thousands of deaths. The football played there — including one of the greatest World Cup finals in history — was, by most aesthetic judgments, magnificent. 
-
-Can we fully appreciate the beauty of that final while knowing its context? Does the ethical situation *contaminate* the aesthetic one, or are they separable? Compare: can you enjoy a painting made by a person who committed atrocities? Is the analogy fair?
-
+ 
 26. Different national styles of football represent different *philosophies* of the game — what it is for, what counts as excellent play. Brazil's historical *jogo bonito* prioritized creativity and flair; Germany's tradition has emphasized collective organization and efficiency; Spain's tiki-taka prized possession and spatial intelligence. 
 
 Are these simply tactical preferences, or are they genuine *aesthetic* and perhaps even *ethical* positions about what football should be? Is the debate between them a philosophical debate — and if so, about what?
