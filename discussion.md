@@ -21,6 +21,9 @@ The Olympics were never mere entertainment. They were religious festivals, polit
 #### Individual 
 
 1. Does modern athletic education and sports culture still have as its goal to cultivate excellent and virtue? 
+- What virtues do you think sports actually teach today — discipline, courage, teamwork?
+- Where do you see sports failing to cultivate virtue — youth leagues, college sports, pro leagues?
+- Is excellence the same thing as virtue, or can you have one without the other?
 
 2. In what ways is athleticism and sport similar to Philosophical inquiry? 
 
@@ -43,15 +46,11 @@ Yet this is only one way of imagining what it means to know.
 
 1. If elite athletic knowledge is genuinely **tacit** — pre-reflective, embodied, resistant to articulation — then how is it ever taught? What does it mean to transmit something that cannot be fully said?
 
-2. What about the *spectator's* experience? When we watch a great player and feel a kind of kinesthetic sympathy — our body responds to theirs — is that a form of knowledge? Are we *knowing* something when we watch sport, and if so, what?
+2. Can you genuinely understand a practice (music, sport, teaching, politics) without being able to do it?
 
-3. There appears to be a kind of paradox where the novice follows explicit rules; the expert *abandons* them in favor of absorbed, intuitive coping. **Flow state** requires many hours of dedicated intentional practice that colminates  
+3. Are there forms of knowing‑how that can never be captured in language and if so, what does that say about the limits of philosophy?
 
-
-
-4. Csikszentmihalyi's **flow state** describes peak performance as a loss of self-consciousness — the self disappears into the activity. Yet achieving flow requires years of intensely self-conscious, analytical practice. There is a paradox here: the goal of deliberate practice is its own transcendence. Can you think your way out of thinking? Is this paradox resolvable, or is it a genuine feature of what embodied mastery is?
-
-5. Consider a soccer player like Xavi Hernández, who could reportedly describe, in detail, the positions of all 21 other players on the pitch at any moment during a match. Is this propositional knowledge — a set of facts he has processed — or something else? Does the *speed* at which it operates change its philosophical character?
+4. Do you think expertise works the same everywhere, or does it only make sense inside a specific context or community?
 
 ## Sports Aesthetics
 
