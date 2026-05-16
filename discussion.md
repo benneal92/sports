@@ -21,11 +21,10 @@ The Olympics were never mere entertainment. They were religious festivals, polit
 #### Individual 
 
 1. Does modern athletic education and sports culture still have as its goal to cultivate excellent and virtue? 
-- What virtues do you think sports actually teach today — discipline, courage, teamwork?
-- Where do you see sports failing to cultivate virtue — youth leagues, college sports, pro leagues?
-- Is excellence the same thing as virtue, or can you have one without the other?
+- What virtues do you think sports actually teach today — discipline, courage, teamwork? Where do you see sports failing to cultivate virtue — youth leagues, college sports, pro leagues? Is excellence the same thing as virtue, or can you have one without the other?
 
 2. In what ways is athleticism and sport similar to Philosophical inquiry? 
+- Both involve training — what does ‘practice’ look like in each? Do both require self‑knowledge? Is there a shared idea of ‘excellence’ in thinking and moving?
 
 #### Political and Social
 
