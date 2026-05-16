@@ -1,7 +1,12 @@
 # Part 1
-### Icebreaker 
 
 What do you think philosophy of sport is and how might it be useful?
+
+## Philosophy of Sports
+
+The philosophy of sport asks fundamental questions about competition, rules, fairness, embodiment, excellence, and why humans are so deeply involved in sport and games. Despite its importance it has largely sat dormant since its inception in the ancient world. 
+
+Its intellectual revival came only in the mid‑20th century, when philosophers such as **Paul Weiss** (Sport: A Philosophic Inquiry, 1969) and **Howard Slusher** (Man, Sport, and Existence, 1967) argued that sport deserved the same conceptual seriousness as other human practices. Their work helped establish the modern discipline and opened the door for later scholars to develop a rich philosophical tradition.
 
 ## Philosophy, Democracy, and Athletics
 
@@ -9,42 +14,44 @@ In 776 BCE, the founding of the Olympic Games at Olympia marked the emergence of
 
 The Olympics were never mere entertainment. They were religious festivals, political theaters, and arenas where philosophical questions were enacted in body and motion.
 
-**Heather Reid**’s work urges us to recover that seriousness — to ask what sport means, not merely how it functions. For the Greeks, competition (agōn) was not a diversion from the good life but one of its highest expressions. Victory conferred timē (honor) and revealed aretē (excellence), the same quality pursued by philosophers and demanded of democratic citizens.
+**Heather Reid**’s work urges us to recover that seriousness — to ask what sport **means**, not merely how it functions. For the Greeks, competition (agōn) was not a diversion from the good life but one of its highest expressions. Victory conferred timē (honor) and revealed aretē (excellence), the same quality pursued by philosophers and demanded of democratic citizens.
 
 ### Discussion Questions
 
-1. In what ways is athleticism and sport similar to Philosophical inquiry? 
+#### Individual 
 
-2. Is the connection between *demokratia* and *agōn* coincidental, or is there something structurally deeper?
+1. Does modern athletic education and sports culture still have as its goal to cultivate excellent and virtue? 
 
-3. Is it possible to design athletic education that genuinely cultivates the soul, or does the competitive logic of sport always tend toward the physical?
+2. In what ways is athleticism and sport similar to Philosophical inquiry? 
+
+#### Political and Social
+
+1. In your opinion how can a democratic society benefit from **competition** and from **cooperation** as demonstrated in sports? Do you think there are dangers of excluding one aspect?
 
 4. What does athletic competition reveal about human nature that other activities might not?
 
-## Ways of Knowing
+## Sports epistemology 
 
-When we think about epistemology, we often default to **propositional knowledge** within a **traditional analytic frame** — the Platonic inheritance. Logic and science are built on propositions, and their success seems to vindicate the approach. On this view, knowledge is justified true belief.
+When we think about epistemology, we often default to **propositional knowledge** within a **traditional analytic frame** — think of Plato. Logic and science are built on propositions, and their success seems to vindicate the approach. On this view, knowledge is justified true belief.
 Yet this is only one way of imagining what it means to know.
 
 **Gilbert Ryle** famously distinguished **knowing that** from **knowing how**. To know that water boils at 100°C is propositional; it can be stated, tested, transmitted. But to know how to ride a bicycle is something else entirely: no list of propositions will teach you balance. Sport is saturated with this second kind of knowledge — refined, embodied, and often inaccessible to language.
 
-**Michael Polanyi** called this **tacit knowledge**: “we know more than we can tell.” But how much more? And what follows from that for coaching, learning, and expertise?
-
-The central puzzle is this: if elite athletic knowledge is genuinely tacit — pre-reflective, embodied, resistant to articulation — then how is it ever taught? What does it mean to transmit something that cannot be fully said?
+**Michael Polanyi** called this **tacit knowledge**: “we know more than we can tell.” Perhaps the mind’s most important operations happen below the level of explicit reasoning. This challenges the supremacy of propositional knowledge and suggests a new frontier of knowledge beyond the border of words.
 
 ### Discussion Questions
 
-1. A football commentator can describe a great pass in precise technical terms — weight, angle, timing. Does that description *capture* what the passer knew when they made it? Is there a remainder — something the description leaves out — and if so, what is its nature.
+1. If elite athletic knowledge is genuinely **tacit** — pre-reflective, embodied, resistant to articulation — then how is it ever taught? What does it mean to transmit something that cannot be fully said?
 
-3. Hubert Dreyfus, drawing on Heidegger, argued that skill development moves through stages: the novice follows explicit rules; the expert *abandons* them in favor of absorbed, intuitive coping. The rules become invisible — the expert is no longer aware of applying them. Does this match your experience of learning a physical skill? And if expertise means leaving rules behind, what does that say about coaching? Is the best coach someone who eventually teaches you to *stop listening to coaches*?
+2. What about the *spectator's* experience? When we watch a great player and feel a kind of kinesthetic sympathy — our body responds to theirs — is that a form of knowledge? Are we *knowing* something when we watch sport, and if so, what?
+
+3. There appears to be a kind of paradox where the novice follows explicit rules; the expert *abandons* them in favor of absorbed, intuitive coping. **Flow state** requires many hours of dedicated intentional practice that colminates  
+
+
 
 4. Csikszentmihalyi's **flow state** describes peak performance as a loss of self-consciousness — the self disappears into the activity. Yet achieving flow requires years of intensely self-conscious, analytical practice. There is a paradox here: the goal of deliberate practice is its own transcendence. Can you think your way out of thinking? Is this paradox resolvable, or is it a genuine feature of what embodied mastery is?
 
 5. Consider a soccer player like Xavi Hernández, who could reportedly describe, in detail, the positions of all 21 other players on the pitch at any moment during a match. Is this propositional knowledge — a set of facts he has processed — or something else? Does the *speed* at which it operates change its philosophical character?
-
-6. When coaches use video analysis, detailed statistics, and tactical diagrams, are they helping athletes *know better* — or are they potentially interfering with a kind of knowing that needs to operate below the level of conscious representation? Is there such a thing as *too much* propositional knowledge for an athlete?
-
-7. If the deepest athletic knowledge is embodied and pre-reflective, what does that imply about the *spectator's* experience? When we watch a great player and feel a kind of kinesthetic sympathy — our body responds to theirs — is that a form of knowledge? Are we *knowing* something when we watch sport, and if so, what?
 
 ## Sports Aesthetics
 
