@@ -20,17 +20,20 @@ The Olympics were never mere entertainment. They were religious festivals, polit
 
 #### Individual 
 
-1. Does modern athletic education and sports culture still have as its goal to cultivate excellent and virtue? 
-- What virtues do you think sports actually teach today — discipline, courage, teamwork? Where do you see sports failing to cultivate virtue — youth leagues, college sports, pro leagues? Is excellence the same thing as virtue, or can you have one without the other?
+1. Do you think sport teaches virtue because of its structure (rules, discipline) or because of its culture (coaches, fans, values)?
+- Is excellence the same thing as virtue, or can you have one without the other? Where do you think we could do better?
 
-2. In what ways is athleticism and sport similar to Philosophical inquiry? 
-- Both involve training — what does ‘practice’ look like in each? Do both require self‑knowledge? Is there a shared idea of ‘excellence’ in thinking and moving?
+2. In what ways is athleticism similar to Philosophy?  
+- What does ‘practice’ look like in each? Do both require self‑knowledge? Is there a shared idea of ‘excellence’ in thinking and moving?
 
 #### Political and Social
 
-1. In your opinion how can a democratic society benefit from **competition** and from **cooperation** as demonstrated in sports? Do you think there are dangers of excluding one aspect?
+1. In your opinion how can a society benefit from **competition** and from **cooperation** as demonstrated in sports? Do you think there are dangers of excluding one aspect?
+- What about free speech and competition of ideas? What about competition in economics driving innovation? What about competition motivates to strive for higher ideals?
+- Cooperation as means to me more effective than alone? What about cooperation implies harmony and satsifaction in life?
 
 4. What does athletic competition reveal about human nature that other activities might not?
+- Is striving itself a basic human impulse? What about our ability to form identities? Construct agreed upon behaviors? Meaning Making?
 
 ## Sports epistemology 
 
@@ -44,24 +47,39 @@ Yet this is only one way of imagining what it means to know.
 ### Discussion Questions
 
 1. If elite athletic knowledge is genuinely **tacit** — pre-reflective, embodied, resistant to articulation — then how is it ever taught? What does it mean to transmit something that cannot be fully said?
+- Does failure play a role in learning tacit skills? Is imitation a form of knowledge transmission?
 
 2. Can you genuinely understand a practice (music, sport, teaching, politics) without being able to do it?
+- Whats happening when coaches that cannot play still get good results? 
 
 3. Are there forms of knowing‑how that can never be captured in language and if so, what does that say about the limits of philosophy?
+- Would anyone say that philosophy itself depends on Tacit knowing? Would the gym count as embodied epistemology?  
 
 4. Do you think expertise works the same everywhere, or does it only make sense inside a specific context or community?
+- Do communities create their own standards of excellence? What happens when expertise travels across cultures?
 
 ## Sports Aesthetics
 
-**David Best** drew a distinction between **purposive sports** and **aesthetic sports**. In purposive sports (football, boxing, sprinting), the aesthetic dimension is incidental — you win however you can, and beauty is a byproduct at best. In aesthetic sports (gymnastics, diving, figure skating), the aesthetic *is* the performance criterion; you cannot separate the how from the what.
+Aesthetics concerns the appreciation of the qualities or emotional force of an object or performance. This ranges from admiring the clean lines of a coffee table to analyzing the structure of a symphony. Sport spectators participate in this aesthetic mode more often than they realize: the excitement of seeing one’s team play is not only about the outcome but also about the grace, timing, and proficiency of a well‑executed play. In this sense, the sports fan is not far from the theatre‑goer who attends a ballet to witness disciplined movement shaped into expressive form.
 
-But this distinction keeps collapsing. We speak of a "beautiful" tackle, an "elegant" solution, a "poetry in motion" winger. And in aesthetic sports, the competitive frame reintroduces a goal — scoring higher than your rival — that sits uneasily with purely aesthetic values. The figure skater is not *just* creating; she is trying to win.
+This connection becomes clearer in **David Best**’s influential distinction between **purposive sports** and **aesthetic sports**. In purposive sports—football, boxing, sprinting—the aesthetic dimension is incidental; success is defined by achieving an external goal, and beauty is at most a fortunate byproduct. In aesthetic sports—gymnastics, diving, figure skating—the aesthetic is the criterion of success. The “how” cannot be separated from the “what.”
+
+Yet Best’s distinction quickly becomes unstable. Purposive sports routinely generate aesthetic judgments: we praise a “beautiful” pass, an “elegant” takedown, a striker who moves “like poetry in motion.” Conversely, aesthetic sports are never free of purposive pressures; the figure skater is not simply creating an expressive performance but competing for points under a codified scoring system. The competitive frame reintroduces instrumental goals that sit uneasily with purely aesthetic values.
+
 
 ### Discussion Questions
 
-1. Why do you think figure skating is generally seen as a sport while ballet is often considered an art?
+1. Why do you think synchronized swimming is considered a sport while ballet  is art? 
+- Does the goals of each impact how we consider them? Do you think its possible competition could intensify the aesthetic experience?
 
-2. 
+2. What does our sense of beauty in sport reveal about what we value in life — control, risk, harmony, power, creativity?
+-
+
+3. 
+-
+
+4.
+- 
 
 15. Is the phrase "the beautiful game" a marketing slogan, a genuine aesthetic claim, or a moral claim about what football *should* be? Can a game played with maximum effectiveness but zero elegance — long balls, pressing, set pieces — still be *good* football? Is there a normative standard here beyond mere taste?
 
