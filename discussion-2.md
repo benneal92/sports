@@ -1,5 +1,10 @@
 # Part 1
 
+> **Opening provocation — hold this question, we will return to it at the end:**
+> *Why does sport matter? Not why it is popular, not why it is profitable — but why a person who cares about what is true and beautiful and worth doing should take it seriously as a philosophical subject.*
+
+&nbsp;
+
 What do you think philosophy of sport is?
 
 ## Philosophy of Sports
@@ -7,6 +12,8 @@ What do you think philosophy of sport is?
 The philosophy of sport asks fundamental questions about competition, rules, fairness, embodiment, excellence, and why humans are so deeply involved in sport and games. Despite its importance it has largely sat dormant since its inception in the ancient world. 
 
 Its intellectual revival came only in the mid‑20th century, when philosophers such as **Paul Weiss** (Sport: A Philosophic Inquiry, 1969) and **Howard Slusher** (Man, Sport, and Existence, 1967) argued that sport deserved the same conceptual seriousness as other human practices. Their work helped establish the modern discipline and opened the door for later scholars to develop a rich philosophical tradition.
+
+In doing so, they were recovering something the Greeks already knew.
 
 ## Philosophy and Political
 
@@ -101,6 +108,7 @@ Essence is self imposed difficulty
 
 #### Play a Game
 
+> **Transition:** Before we apply these frameworks to the World Cup, let's test them on some harder cases. The following activity asks you to place real activities within the models — where things resist easy placement is where the philosophy begins.
 
 ## The World Cup and Political
 
@@ -113,6 +121,8 @@ All three of the philosophical threads we have been pulling on — the nature of
 ## The World Cup and Epistemology
 
 ### Discussion Questions
+
+0. *Entry point:* Has a coach or teacher ever tried to explain something to you that you only understood later by actually doing it? What does that gap tell us about how athletic knowledge is transmitted?
 
 1. The World Cup brings together players from dozens of different football cultures — each with its own bodily habits, tactical languages, and ways of understanding the game. When a South American player joins a European pressing system, or when a coach attempts to transmit a philosophy across a language barrier in a tournament setting, what is actually being transmitted? 
 
@@ -129,6 +139,7 @@ How do we reconcile the prepared and the spontaneous, the analytical and the int
 1. Different national styles of football represent different *philosophies* of the game — what it is for, what counts as excellent play. Brazil's historical *jogo bonito* prioritized creativity and flair; Germany's tradition has emphasized collective organization and efficiency; Spain's tiki-taka prized possession and spatial intelligence. 
 
 Are these simply tactical preferences, or are they genuine *aesthetic* and perhaps even *ethical* positions about what football should be? Is the debate between them a philosophical debate — and if so, about what?
+- *Push further:* What would it mean for one footballing philosophy to be **wrong** — not just different?
 
 2. The World Cup goal — a Roberto Carlos free kick, Bergkamp's turn and finish against Argentina, Messi's dribble in 2018 — has an extraordinary cultural weight. A single goal can define a career, a nation's relationship to the sport, a generation's memory. Is a great goal an *aesthetic object* in the philosophical sense — something whose value is intrinsic, irreducible to its consequences, rewarding of close attention? How does it compare to a great poem or piece of music?
 
@@ -141,4 +152,4 @@ Are these simply tactical preferences, or are they genuine *aesthetic* and perha
 
 2. The World Cup is contested between *nations*, not clubs or individuals. National teams carry an identity that goes far beyond sport — they represent histories, colonial legacies, political conflicts, and cultural pride. Does this mean the World Cup is *more than* a sport — a ritual, a political event, a form of collective identity performance? And if so, does that change its relationship to play? Is there anything still *playful* about the World Cup?
 
-3. Final question — the one to leave with: **Why does sport matter?** Not why it is popular, not why it is profitable, but why a person who cares about what is true and beautiful and worth doing should take it seriously as a philosophical subject. Make the case.
+3. **Return to where we began.** At the start we asked: *why does sport matter?* — not why it is popular, not why it is profitable, but why a person who cares about what is true and beautiful and worth doing should take it seriously as a philosophical subject. Having worked through ontology, epistemology, and aesthetics, and having put those frameworks under the pressure of the World Cup — now make the case.
