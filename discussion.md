@@ -1,6 +1,6 @@
 # Part 1
 
-What do you think philosophy of sport is and how might it be useful?
+What do you think philosophy of sport is?
 
 ## Philosophy of Sports
 
@@ -91,8 +91,10 @@ Yet Best’s distinction quickly becomes unstable. Purposive sports routinely ge
 # Part 2
 ## Play, Game, and Sport
 
-**Johan Huizinga**, in *Homo Ludens*, went further back: play is not just a feature of games or sports, it is a fundamental category of human (and animal) life — free, voluntary, absorbing, set apart from "ordinary" life by its own rules and space. Culture itself, he argued, *arises in and as* play.
+Essence is play  
+**Johan Huizinga**, in *Homo Ludens*, thought that play is not just a feature of games or sports, it is a fundamental category of human (and animal) life — free, voluntary, absorbing, set apart from "ordinary" life by its own rules and space. Culture itself, he argued, *arises in and as* play.
 
+Essence is self imposed difficulty  
 **Bernard Suits**, in *The Grasshopper: Games, Life and Utopia*, proposed that playing a game means "the voluntary attempt to overcome unnecessary obstacles." A golfer could simply carry the ball to the hole — the rules forbid it. The whole point is the self-imposed constraint. On this view, the essence of sport is *chosen difficulty*.
 
 **Heather Reid** argues that play is the most basic human activity: free, spontaneous, and done for its own sake. Games emerge when play becomes structured by rules, goals, and shared meanings that create an artificial world in which success and failure matter. Sport is a further refinement — a type of game defined by physical skill, competition, and social institutions that elevate it into a cultural practice. For Reid, sport is not just organized play but a moral arena where societies negotiate values like fairness, excellence, honor, and human flourishing.
@@ -104,6 +106,12 @@ Yet Best’s distinction quickly becomes unstable. Purposive sports routinely ge
 The FIFA World Cup is, by most measures, the largest shared human event that regularly occurs on earth. The 2022 final between Argentina and France was watched by an estimated 1.5 billion people simultaneously. It is simultaneously: a sporting contest, an aesthetic spectacle, a site of national identity and political symbolism, a commercial enterprise of staggering scale.
 
 All three of the philosophical threads we have been pulling on — the nature of sport, the epistemology of athletic knowledge, and the aesthetics of performance — converge here, and they converge under pressure. The World Cup does not let us hold these questions in comfortable abstraction.
+
+## The World Cup and Globalization 
+
+## The World Cup and Aesthetics
+
+## THe World Cup and Virtue
 
 ### Discussion Questions
 
