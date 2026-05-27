@@ -28,21 +28,22 @@ The Olympics were never mere entertainment. They were religious festivals, polit
 
 #### Political and Social
 
-1. In your opinion how can a society benefit from **competition** and from **cooperation** as demonstrated in sports? Do you think there are dangers of excluding one aspect?
+2. In your opinion how can a society benefit from **competition** and from **cooperation** as demonstrated in sports? Do you think there are dangers of excluding one aspect?
 - What about free speech and competition of ideas? What about competition in economics driving innovation? What about competition motivates to strive for higher ideals?
 - Cooperation as means to me more effective than alone? What about cooperation implies harmony and satsifaction in life?
 
-4. What does athletic competition reveal about human nature that other activities might not?
+3. What does athletic competition reveal about human nature that other activities might not?
 - Is striving itself a basic human impulse? What about our ability to form identities? Construct agreed upon behaviors? Meaning Making?
 
-## Sports epistemology 
+## Epistemology and Embodiment 
 
 When we think about epistemology, we often default to **propositional knowledge** within a **traditional analytic frame** — think of Plato. Logic and science are built on propositions, and their success seems to vindicate the approach. On this view, knowledge is justified true belief.
-Yet this is only one way of imagining what it means to know.
 
 **Gilbert Ryle** famously distinguished **knowing that** from **knowing how**. To know that water boils at 100°C is propositional; it can be stated, tested, transmitted. But to know how to ride a bicycle is something else entirely: no list of propositions will teach you balance. Sport is saturated with this second kind of knowledge — refined, embodied, and often inaccessible to language.
 
 **Michael Polanyi** called this **tacit knowledge**: “we know more than we can tell.” Perhaps the mind’s most important operations happen below the level of explicit reasoning. This challenges the supremacy of propositional knowledge and suggests a new frontier of knowledge beyond the border of words.
+
+**Heather Reid** argues that athletics gives us a lived answer to the **mind–body problem**: sport shows that thinking and moving are not separate realms but two aspects of a single, integrated human agency. Athletic excellence depends on embodied intelligence, tacit knowledge, emotional attunement, and physical discipline working together in ways that dualistic metaphysics cannot explain. Drawing on ancient Greek ideals of aretē, she treats sport as a practice that cultivates unified virtue—where moral, mental, and physical development are inseparable. For Reid, the athlete is not a mind using a body but a whole person expressing meaning, identity, and understanding through action.
 
 ### Discussion Questions
 
@@ -58,55 +59,49 @@ Yet this is only one way of imagining what it means to know.
 4. Do you think expertise works the same everywhere, or does it only make sense inside a specific context or community?
 - Do communities create their own standards of excellence? What happens when expertise travels across cultures?
 
-## Sports Aesthetics
+5. Can virtues like courage, discipline, or humility be meaningfully separated into ‘mental’ and ‘physical’ components, or are they inherently embodied?
 
-Aesthetics concerns the appreciation of the qualities or emotional force of an object or performance. This ranges from admiring the clean lines of a coffee table to analyzing the structure of a symphony. Sport spectators participate in this aesthetic mode more often than they realize: the excitement of seeing one’s team play is not only about the outcome but also about the grace, timing, and proficiency of a well‑executed play. In this sense, the sports fan is not far from the theatre‑goer who attends a ballet to witness disciplined movement shaped into expressive form.
+## Aesthetics and Athletics 
 
-This connection becomes clearer in **David Best**’s influential distinction between **purposive sports** and **aesthetic sports**. In purposive sports—football, boxing, sprinting—the aesthetic dimension is incidental; success is defined by achieving an external goal, and beauty is at most a fortunate byproduct. In aesthetic sports—gymnastics, diving, figure skating—the aesthetic is the criterion of success. The “how” cannot be separated from the “what.”
+**Heather Reid** argues that the aesthetics of sport arise from the way athletic action makes human excellence visible. In soccer, beauty emerges not from decoration or style for its own sake but from the harmonious coordination of skilled players pursuing a shared goal under conditions of risk and uncertainty. A fluid passing sequence, a perfectly timed tackle, or a moment of improvisational brilliance is aesthetically powerful because it expresses virtues like intelligence, courage, discipline, and cooperation. For Reid, soccer’s beauty is inseparable from its moral dimension: the game dramatizes human striving, reveals character, and transforms embodied skill into a form of meaningful, perceptible excellence.
+
+In **David Best**’s influential distinction between **purposive sports** and **aesthetic sports**. In purposive sports—football, boxing, sprinting—the aesthetic dimension is incidental; success is defined by achieving an external goal, and beauty is at most a fortunate byproduct. In aesthetic sports—gymnastics, diving, figure skating—the aesthetic is the criterion of success. The “how” cannot be separated from the “what.”
 
 Yet Best’s distinction quickly becomes unstable. Purposive sports routinely generate aesthetic judgments: we praise a “beautiful” pass, an “elegant” takedown, a striker who moves “like poetry in motion.” Conversely, aesthetic sports are never free of purposive pressures; the figure skater is not simply creating an expressive performance but competing for points under a codified scoring system. The competitive frame reintroduces instrumental goals that sit uneasily with purely aesthetic values.
 
-
 ### Discussion Questions
 
-1. Why do you think synchronized swimming is considered a sport while ballet  is art? 
+1. What makes a moment in soccer “beautiful”?
+- Control, risk, harmony, power, creativity?
+- The skill itself, the teamwork behind it, or the meaning of the moment?  
+
+2. Can a team play “beautifully” and still lose—and if so, what does that say about the purpose of sport?  
+- Opens questions about telos, excellence, and competing values.
+
+3. Is there something morally admirable about beautiful play, or is beauty in sport completely separate from virtue?  
+- Connects aesthetics to ethics in a way Reid emphasizes.
+
+4. Why do we admire creativity and risk-taking in soccer even when it fails—what does that reveal about human nature?  
+- Explores uncertainty, striving, and the aesthetic value of risk.
+
+5. Why do you think synchronized swimming is considered a sport while ballet  is art? 
 - Does the goals of each impact how we consider them? Do you think its possible competition could intensify the aesthetic experience?
-
-2. What does our sense of beauty in sport reveal about what we value in life — control, risk, harmony, power, creativity?
--
-
-3. 
--
-
-4.
-- 
-
-15. Is the phrase "the beautiful game" a marketing slogan, a genuine aesthetic claim, or a moral claim about what football *should* be? Can a game played with maximum effectiveness but zero elegance — long balls, pressing, set pieces — still be *good* football? Is there a normative standard here beyond mere taste?
-
-16. Think of the most aesthetically striking sporting moment you can remember. What made it beautiful — was it the difficulty, the surprise, the precision, the fluidity, something else? Does the aesthetic vocabulary we use for sport (*elegant, graceful, powerful, sublime*) overlap with the vocabulary we use for art — or is it a different register?
-
-17. Best's distinction between purposive and aesthetic sports seems to place gymnastics closer to *dance* than to *football*. But gymnastics has judges, scores, and a winner. Does competition *transform* an art form into a sport? And if so, is something lost in that transformation — or does competition *intensify* the aesthetic by adding stakes?
-
-18. We praise both a boxer who wins *beautifully* and one who wins *uglily*. Both are successful; only one is aesthetically praiseworthy. Does this mean sports have two separate evaluative registers — the competitive and the aesthetic — that operate independently? Or are they always entangled?
-
-19. Consider the relationship between *constraint* and *beauty* in sport. The rules of a sonnet — 14 lines, iambic pentameter, a specific rhyme scheme — are constraints that enable, rather than prevent, a particular kind of beauty. Is it the same with sport? Does the offside rule, the size of the goal, the prohibition on using hands — do these constraints *generate* soccer's aesthetic possibilities rather than limit them?
-
-20. If sports have genuine aesthetic value — not just entertainment value, but something closer to artistic value — then who is the aesthetic experience *for*? The athlete, the spectator, or both? And does the massification of sport through television, streaming, and global broadcast change the nature of that aesthetic experience — turning it into what Guy Debord called **spectacle**: a representation of life that substitutes for life itself?
 
 
 # Part 2
 ## Play, Game, and Sport
 
-**Bernard Suits**, in *The Grasshopper: Games, Life and Utopia*, proposed that playing a game means "the voluntary attempt to overcome unnecessary obstacles." A golfer could simply carry the ball to the hole — the rules forbid it. The whole point is the self-imposed constraint. On this view, the essence of sport is *chosen difficulty*.
-
 **Johan Huizinga**, in *Homo Ludens*, went further back: play is not just a feature of games or sports, it is a fundamental category of human (and animal) life — free, voluntary, absorbing, set apart from "ordinary" life by its own rules and space. Culture itself, he argued, *arises in and as* play.
 
-These two accounts are not obviously compatible. 
+**Bernard Suits**, in *The Grasshopper: Games, Life and Utopia*, proposed that playing a game means "the voluntary attempt to overcome unnecessary obstacles." A golfer could simply carry the ball to the hole — the rules forbid it. The whole point is the self-imposed constraint. On this view, the essence of sport is *chosen difficulty*.
 
+**Heather Reid** argues that play is the most basic human activity: free, spontaneous, and done for its own sake. Games emerge when play becomes structured by rules, goals, and shared meanings that create an artificial world in which success and failure matter. Sport is a further refinement — a type of game defined by physical skill, competition, and social institutions that elevate it into a cultural practice. For Reid, sport is not just organized play but a moral arena where societies negotiate values like fairness, excellence, honor, and human flourishing.
+
+#### Play a Game
 
 ## The World Cup
 
-The FIFA World Cup is, by most measures, the largest shared human event that regularly occurs on earth. The 2022 final between Argentina and France was watched by an estimated 1.5 billion people simultaneously. It is simultaneously: a sporting contest, an aesthetic spectacle, a site of national identity and political symbolism, a commercial enterprise of staggering scale, and — in the case of Qatar 2022 — an ethical scandal involving migrant labor deaths, human rights abuses, and the purchase of a tournament by a petrostate.
+The FIFA World Cup is, by most measures, the largest shared human event that regularly occurs on earth. The 2022 final between Argentina and France was watched by an estimated 1.5 billion people simultaneously. It is simultaneously: a sporting contest, an aesthetic spectacle, a site of national identity and political symbolism, a commercial enterprise of staggering scale.
 
 All three of the philosophical threads we have been pulling on — the nature of sport, the epistemology of athletic knowledge, and the aesthetics of performance — converge here, and they converge under pressure. The World Cup does not let us hold these questions in comfortable abstraction.
 
