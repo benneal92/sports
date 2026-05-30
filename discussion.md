@@ -143,20 +143,46 @@ Is there a football *language* that transcends cultural difference — or are th
 - Cultures produce different **motor vocabularies**: how to receive, how to press, how to combine, how to improvise.
 - Some knowledge is **explicit** (pressing triggers, tactical shapes)
 - Some is **implicit** (how to feel pressure, how to read chaos, how to improvise)
-- Is it separate Language or different Dialects?
-- universalism vs pluralism
+- Is it separate Language or different Dialects? (universalism vs pluralism)
+- Perception vs Tactic
+- Does globalization enrich football by blending knowledges — or flatten it by erasing cultural difference?
 
 2. The best players at a World Cup often describe their peak performances as effortless, automatic, beyond thought. Messi after scoring a great goal: "I don't think — I just play." But those players also prepare with obsessive tactical analysis, video study, and physical monitoring. 
 
 How do we reconcile the prepared and the spontaneous, the analytical and the intuitive, in understanding what a great World Cup performance *is*?
+
+Analytical  
+- Tactical study builds mental models of space, movement, and opponent tendencies
+- Anticipatory knowledge — players know what is likely before it happens
+- Outside of Match
+
+Intuitive  
+- Embodied — a form of knowing that bypasses conscious deliberation  
+- Flow states reduce self-consciousness, enabling pure action 
+- During Match
+
+Is Messi’s “I don’t think” a description of reality — or a myth we tell about genius?    
+Is intuition superior to analysis — the “true” form of footballing genius?     
+Or is intuition simply compressed analysis, running too fast to notice?    
+Is great performance the triumph of instinct over thought — or the triumph of thought so deeply internalized that it becomes instinct?   
 
 ## The World Cup, Aesthetics, and Ethics
 
 ### Discussion Questions
 
 1. Soccer has been called the "beautiful game", What makes a moment in soccer “beautiful”?
-- Control, risk, harmony, power, creativity?
 - The skill itself, the teamwork behind it, or the meaning of the moment?  
+- Control, risk, harmony, power, creativity?  
+- Beauty can be formal (shape, timing, balance), expressive (creativity, daring), or narrative (stakes, meaning)  
+- A moment can be beautiful because of how it’s done (technique), why it matters (context), or what it reveals (human excellence)  
+- Beauty in soccer is often dynamic — something unfolding in time, not a static object  
+- Individual beauty vs Collective Beauty
+- Appreciation depends on football literacy — a kind of aesthetic education
+
+Is beauty in soccer objective (form, technique) or subjective (emotion, narrative)?  
+Is a beautiful moment still beautiful if it happens in a meaningless match?  
+Is beauty tied to success, or can failure be beautiful (a brilliant move that almost works)?   
+Is beauty in soccer closer to art, craft, or nature?  
 
 2. Different national styles of football represent different *philosophies* of the game — what it is for, what counts as excellent play. Brazil's historical *jogo bonito* prioritized creativity and flair; Germany's tradition has emphasized collective organization and efficiency; Spain's tiki-taka prized possession and spatial intelligence. 
 
@@ -172,7 +198,6 @@ Are these simply tactical preferences, or are they genuine **aesthetic** and per
 - Essence or is purely pluralistic
 - Suppresses creativity
 - Does winning determine which is right?
-
 
 3. The World Cup goal — a Roberto Carlos free kick, Bergkamp's turn and finish against Argentina, Messi's dribble in 2018 — has an extraordinary cultural weight. A single goal can define a career, a nation's relationship to the sport, a generation's memory. Is a great goal an *aesthetic object* in the philosophical sense? 
 - How does it compare to a great poem or piece of music?
@@ -193,4 +218,24 @@ Are these simply tactical preferences, or are they genuine **aesthetic** and per
 - Does Ontology of sport determine its epistemology? (Team sport vs individual sport)
 - What about Aesthetic and Epistemology? (Perfect play display of knowledge)
 
-3. **Return to where we began.** At the start we asked: *why does sport matter?* — not why it is popular, not why it is profitable, but why a person who cares about what is true and beautiful and worth doing should take it seriously as a philosophical subject. Having worked through ontology, epistemology, and aesthetics, and having put those frameworks under the pressure of the World Cup — now make the case.
+2. **Return to where we began.** At the start we asked: *why does sport matter?* — not why it is popular, not why it is profitable, but why a person who cares about what is true and beautiful and worth doing should take it seriously as a philosophical subject. 
+
+Ontology → Sport is a constructed world where meaning is voluntarily created.  
+Epistemology → Sport involves unique forms of knowing: tacit, embodied, perceptual.  
+Aesthetics → Sport generates beauty through movement, tension, and form.  
+
+- Sport exposes human limits — physical, psychological, moral
+- It reveals truths about chance, contingency, and fate
+- It shows how meaning can be constructed through rules, commitment, and shared imagination
+- It is a laboratory for understanding competition, cooperation, and excellence
+
+- Sport produces ephemeral beauty — movement, timing, harmony, improvisation.
+- It creates beauty through constraint, like poetry or dance.
+- It offers a form of beauty that is unscripted, emerging from real risk and uncertainty.
+- The World Cup amplifies beauty by adding mythic stakes.
+
+- Sport cultivates virtues: discipline, courage, resilience, teamwork.
+- It creates shared emotion and collective identity without violence.
+- It offers a rare space where effort, excellence, and fairness matter.
+- It gives people a way to experience joy, flow, and embodied meaning.
+
