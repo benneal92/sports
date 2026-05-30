@@ -1,7 +1,7 @@
 # Part 1
 
-> **Opening provocation — hold this question, we will return to it at the end:**
-> *Why does sport matter? Not why it is popular, not why it is profitable — but why a person who cares about what is true and beautiful and worth doing should take it seriously as a philosophical subject.*
+> **hold this question, we will return to it at the end:**
+> *Why does sport matter? Not why it is popular, not why it is profitable but why should we care about sports.
 
 &nbsp;
 
@@ -27,19 +27,21 @@ The Olympics were never mere entertainment. They were religious festivals, polit
 
 #### Individual 
 
-1. Do you think sport teaches virtue because of its structure (rules, discipline) or because of its culture (coaches, fans, values)?
+1. Do you think sport teaches virtue because of its structure (rules, discipline) or because of its culture (coaches, fans, values)? Is it different in amateur setting s professional? Where do the values come from?
 - Is excellence the same thing as virtue, or can you have one without the other? Where do you think we could do better?
+- Do spectators and society influence how we do sport
 
 2. In what ways is athleticism similar to Philosophy?  
 - What does ‘practice’ look like in each? Do both require self‑knowledge? Is there a shared idea of ‘excellence’ in thinking and moving?
 
 #### Political and Social
 
-2. In your opinion how can a society benefit from **competition** and from **cooperation** as demonstrated in sports? Do you think there are dangers of excluding one aspect?
+1. In your opinion how can a society benefit from **competition** and from **cooperation** as demonstrated in sports? Do you think there are dangers of excluding one aspect?
 - What about free speech and competition of ideas? What about competition in economics driving innovation? What about competition motivates to strive for higher ideals?
-- Cooperation as means to me more effective than alone? What about cooperation implies harmony and satsifaction in life?
+- Cooperation as means to me more effective than alone? What about cooperation implies harmony and satisfaction in life?
+- Healthy competition vs unhealthy competition?
 
-3. What does athletic competition reveal about human nature that other activities might not?
+2. What does athletic competition reveal about human nature that other activities might not?
 - Is striving itself a basic human impulse? What about our ability to form identities? Construct agreed upon behaviors? Meaning Making?
 
 ## Epistemology and Embodiment 
@@ -59,8 +61,9 @@ When we think about epistemology, we often default to **propositional knowledge*
 
 2. Can you genuinely understand a practice (music, sport, teaching, politics) without being able to do it?
 - Whats happening when coaches that cannot play still get good results? 
+- If we also play a sport how does that influence our appreciation of it?
 
-3. Are there forms of knowing‑how that can never be captured in language and if so, what does that say about the limits of philosophy?
+3. Are there forms of **knowing‑how** that can never be captured in language and if so, what does that say about the limits of philosophy?
 - Would anyone say that philosophy itself depends on Tacit knowing? Would the gym count as embodied epistemology?  
 
 4. Do you think expertise works the same everywhere, or does it only make sense inside a specific context or community?
@@ -78,21 +81,21 @@ Yet Best’s distinction quickly becomes unstable. Purposive sports routinely ge
 
 ### Discussion Questions
 
-1. What makes a moment in soccer “beautiful”?
-- Control, risk, harmony, power, creativity?
-- The skill itself, the teamwork behind it, or the meaning of the moment?  
+1. Why do you think synchronized swimming is considered a sport while ballet is art? 
+- Does the goals of each impact how we consider them? Do you think its possible competition could intensify the aesthetic experience?
+- Means and ends are exactly the same for Art but sports the end is to win which is not the same as the means
 
-2. Can a team play “beautifully” and still lose—and if so, what does that say about the purpose of sport?  
-- Opens questions about telos, excellence, and competing values.
+2. Can a team play “beautifully” and still lose—and if so, what does that say about the purpose of sport?     
+- What is the telos of sport?
+- Does sport consist of competing values?
+- Is excellence tied to winning?
 
 3. Is there something morally admirable about beautiful play, or is beauty in sport completely separate from virtue?  
 - Connects aesthetics to ethics in a way Reid emphasizes.
+- Development of Virtue (Technical Virtue vs moral Virtue)
 
 4. Why do we admire creativity and risk-taking in soccer even when it fails—what does that reveal about human nature?  
 - Explores uncertainty, striving, and the aesthetic value of risk.
-
-5. Why do you think synchronized swimming is considered a sport while ballet  is art? 
-- Does the goals of each impact how we consider them? Do you think its possible competition could intensify the aesthetic experience?
 
 
 # Part 2
@@ -114,19 +117,34 @@ Essence is self imposed difficulty
 
 The FIFA World Cup is, by most measures, the largest shared human event that regularly occurs on earth. The 2022 final between Argentina and France was watched by an estimated 1.5 billion people simultaneously. It is simultaneously: a sporting contest, an aesthetic spectacle, a site of national identity and political symbolism, a commercial enterprise of staggering scale.
 
-All three of the philosophical threads we have been pulling on — the nature of sport, the epistemology of athletic knowledge, and the aesthetics of performance — converge here, and they converge under pressure. The World Cup does not let us hold these questions in comfortable abstraction.
-
 ### Discussion Questions
+
+1. The World Cup is contested between *nations*, not clubs or individuals. National teams carry an identity that goes far beyond sport — they represent histories, colonial legacies, political conflicts, and cultural pride. 
+
+Does this mean the World Cup is *more than* a sport — a ritual, a political event, a form of collective identity performance? And if so, does that change its relationship to play? Is there anything still *playful* about the World Cup?
+- Representations of identity
+- Rituals involve collective emotion, symbolic action, and periodic repetition
+- Synchronized behavior (chants, colors, flags)
+- Does Play requires freedom, spontaneity, and non‑seriousness
+- If the World Cup is ritual/politics/identity, then sport is never “just a game.”
+- Does national identity enrich the meaning of the World Cup or corrupt it?
+- Would the World Cup be better if it were less political or is the politics part of its power?
+- Is the pressure of representing a nation elevating (virtue, courage) or distorting (fear, gamesmanship)?
+
 
 ## The World Cup and Epistemology
 
 ### Discussion Questions
 
-0. *Entry point:* Has a coach or teacher ever tried to explain something to you that you only understood later by actually doing it? What does that gap tell us about how athletic knowledge is transmitted?
-
 1. The World Cup brings together players from dozens of different football cultures — each with its own bodily habits, tactical languages, and ways of understanding the game. When a South American player joins a European pressing system, or when a coach attempts to transmit a philosophy across a language barrier in a tournament setting, what is actually being transmitted? 
 
-Is there a football *language* that transcends cultural difference — or are there genuinely incommensurable footballing knowledges?
+Is there a football *language* that transcends cultural difference — or are there genuinely incommensurable footballing knowledges?  
+
+- Cultures produce different **motor vocabularies**: how to receive, how to press, how to combine, how to improvise.
+- Some knowledge is **explicit** (pressing triggers, tactical shapes)
+- Some is **implicit** (how to feel pressure, how to read chaos, how to improvise)
+- Is it separate Language or different Dialects?
+- universalism vs pluralism
 
 2. The best players at a World Cup often describe their peak performances as effortless, automatic, beyond thought. Messi after scoring a great goal: "I don't think — I just play." But those players also prepare with obsessive tactical analysis, video study, and physical monitoring. 
 
@@ -136,20 +154,43 @@ How do we reconcile the prepared and the spontaneous, the analytical and the int
 
 ### Discussion Questions
 
-1. Different national styles of football represent different *philosophies* of the game — what it is for, what counts as excellent play. Brazil's historical *jogo bonito* prioritized creativity and flair; Germany's tradition has emphasized collective organization and efficiency; Spain's tiki-taka prized possession and spatial intelligence. 
+1. Soccer has been called the "beautiful game", What makes a moment in soccer “beautiful”?
+- Control, risk, harmony, power, creativity?
+- The skill itself, the teamwork behind it, or the meaning of the moment?  
 
-Are these simply tactical preferences, or are they genuine *aesthetic* and perhaps even *ethical* positions about what football should be? Is the debate between them a philosophical debate — and if so, about what?
-- *Push further:* What would it mean for one footballing philosophy to be **wrong** — not just different?
+2. Different national styles of football represent different *philosophies* of the game — what it is for, what counts as excellent play. Brazil's historical *jogo bonito* prioritized creativity and flair; Germany's tradition has emphasized collective organization and efficiency; Spain's tiki-taka prized possession and spatial intelligence. 
 
-2. The World Cup goal — a Roberto Carlos free kick, Bergkamp's turn and finish against Argentina, Messi's dribble in 2018 — has an extraordinary cultural weight. A single goal can define a career, a nation's relationship to the sport, a generation's memory. Is a great goal an *aesthetic object* in the philosophical sense — something whose value is intrinsic, irreducible to its consequences, rewarding of close attention? How does it compare to a great poem or piece of music?
+Are these simply tactical preferences, or are they genuine **aesthetic** and perhaps even **ethical** positions about what football should be? Is the debate between them a philosophical debate?  
 
+- What the game is for: joy, mastery, control, efficiency, improvisation
+- Style shapes what counts as excellence
+- Jogo bonito treats beauty as spontaneity, risk, and expressive movement.
+- German football treats beauty as order, harmony, and collective precision.
+- Tiki‑taka treats beauty as pattern, patience, and spatial geometry.
+
+- **Push further:** What would it mean for one footballing philosophy to be **wrong** — not just different?
+- Essence or is purely pluralistic
+- Suppresses creativity
+- Does winning determine which is right?
+
+
+3. The World Cup goal — a Roberto Carlos free kick, Bergkamp's turn and finish against Argentina, Messi's dribble in 2018 — has an extraordinary cultural weight. A single goal can define a career, a nation's relationship to the sport, a generation's memory. Is a great goal an *aesthetic object* in the philosophical sense? 
+- How does it compare to a great poem or piece of music?
+- intrinsic vs extrinsic 
+- contemplation vs consumption
+- repeatable vs unrepeatable
+- individual vs collective
+- Symbolic (Countries domination)
+- mythologized (Translated into a narrative)
 
 ## Conclusion
 
 ### Discussion Questions
 
-1. We have been working with three frameworks — the ontology of sport (what it is), its epistemology (what kind of knowing it involves), and its aesthetics (what kind of beauty or value it has). Do these three frameworks ultimately point toward the same thing — some unified account of what sport is and why it matters? Or are they irreducibly separate lenses that illuminate different aspects without ever adding up to a whole?
-
-2. The World Cup is contested between *nations*, not clubs or individuals. National teams carry an identity that goes far beyond sport — they represent histories, colonial legacies, political conflicts, and cultural pride. Does this mean the World Cup is *more than* a sport — a ritual, a political event, a form of collective identity performance? And if so, does that change its relationship to play? Is there anything still *playful* about the World Cup?
+1. We have been looking at three frameworks, the ontology of sport, its epistemology, and its aesthetics. Do these three frameworks ultimately point toward the same unified thing or not? How do they relate to each other?
+- Essences with unified whole vs disparate and separate phenomena 
+- Does Ontology of sport determine its aesthetic? (Rules, goals, and constraints)
+- Does Ontology of sport determine its epistemology? (Team sport vs individual sport)
+- What about Aesthetic and Epistemology? (Perfect play display of knowledge)
 
 3. **Return to where we began.** At the start we asked: *why does sport matter?* — not why it is popular, not why it is profitable, but why a person who cares about what is true and beautiful and worth doing should take it seriously as a philosophical subject. Having worked through ontology, epistemology, and aesthetics, and having put those frameworks under the pressure of the World Cup — now make the case.
