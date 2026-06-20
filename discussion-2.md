@@ -184,54 +184,47 @@ The tournament amplifies grievances (labor, human rights, corruption); visible d
 
 ---
 
-### The World Cup Globalization
-
-**Summary**  
-The World Cup is globalization in miniature: flows of people, capital, media, labor, and culture converge in a single event. 
-
-**Key points**  
-- **Flows and networks:** players, fans, sponsors, and broadcasters form transnational circuits.  
-- **Simultaneity:** billions experience matches at the same moment, producing a rare shared temporal event.  
-- **Standardization vs. diversity:** global broadcast formats and branding standardize experience while local cultures resist or adapt.  
-- **Labor and mobility:** player migration and host‑country labor practices reveal global inequalities.  
-- **Capital and infrastructure:** stadiums and transport reflect global investment patterns and often uneven development.
-
-#### Media, simultaneity, and cultural exchange  
-Global media create a standardized spectacle and enable cultural exchange, but also raise questions about authenticity, commercialization, and cultural appropriation.
-
-#### Economic integration and inequality  
-Hosting and sponsorship tie the tournament to global capital; benefits (tourism, contracts) often concentrate among elites while costs (displacement, labor exploitation) fall on vulnerable groups.
-
-**Key takeaway**  
-**The World Cup is a globalization engine**—it produces shared global experiences while exposing and reproducing structural inequalities.
-
-**Discussion questions**  
-- Does the World Cup globalize football, or does football globalize the world?  
-- Is global simultaneity a form of unity or a force for homogenization?  
-- How can governance and policy make globalization’s benefits more equitable?
+Here are rewritten versions of both sections:
 
 ---
 
-### Gender Inclusion and Accessibility
+### The World Cup as Globalization
 
-- **Visibility and investment:** Men’s tournaments receive more broadcast time, sponsorship, and marketing, which shapes resources and role models.  
-- **Safety and experience:** Harassment and inadequate stewarding deter women and LGBTQ+ fans; clear codes of conduct and reporting systems reduce risk.  
-- **Physical and sensory access:** Accessible seating, transport, ticketing, captioning, and audio description determine whether disabled fans can attend and participate.  
-- **Representation in governance:** Diverse leadership in federations and organizing committees changes priorities on scheduling, safety, and accessibility.  
-- **Intersectionality:** Gender interacts with race, class, migration status, and disability; policies must address overlapping barriers, not single categories.
+**Reframe:** The World Cup doesn't just *reflect* globalization — it *produces* it. But what kind of world does it actually make?
 
-**Practical measures**
-- **Enforceable commitments:** Inclusion clauses in host contracts and broadcast deals tied to measurable targets.  
-- **Design standards:** Mandatory accessibility audits for venues and transport, plus sensory‑friendly spaces.  
-- **Safety systems:** Trained stewards, confidential reporting, and survivor‑centered responses.  
-- **Transparency:** Public reporting on media airtime, sponsorship distribution, harassment incidents, and governance diversity.
+**Key tensions**
+- **Homogenization vs. hybridization:** Global broadcast formats and sponsor branding flatten local difference, yet local cultures also absorb and transform football into something new. Is the net effect convergence or creative friction?
+- **Simultaneity as politics:** Billions watching the same moment is unprecedented in human history. Does shared attention create shared humanity, or just the *feeling* of it while structural inequalities remain untouched?
+- **Labor and mobility:** Players cross borders freely; the workers who built the stadiums often cannot. The World Cup makes visible a two-tier system of global movement.
+- **Capital flows:** Hosting rights, sponsorship, and broadcasting revenue concentrate among a small number of institutions. The "global" event has very local winners and losers.
 
-**Key takeaway**  
-**Inclusion is structural:** make it measurable, enforceable, and resourced so the World Cup’s social benefits reach everyone.
+**Key takeaway**
+The World Cup is a stress test of globalization's promises — it shows where genuine connection forms and where the rhetoric of unity masks persistent inequality.
 
 **Discussion questions**
-- *Who is visible at the World Cup and who remains invisible, and why does that visibility matter?
+- *If you can feel genuine solidarity with someone on the other side of the world for 90 minutes, does that solidarity mean anything beyond the final whistle?*
+- *Is a world that shares the same sporting spectacle more unified, or just more efficiently marketed to?*
+- *Who gets to move freely in the world the World Cup creates — and who doesn't?*
 
+---
+
+### Gender, Inclusion, and the Limits of the Spectacle
+
+**Reframe:** The World Cup presents itself as universal a festival for all of humanity. What does it reveal about who actually counts as a full participant in that humanity?
+
+**Key tensions**
+- **Visibility and value:** The women's game produces comparable skill, drama, and emotional intensity, yet receives a fraction of the broadcast time, prize money, and cultural weight. What does that gap tell us about how societies actually value things versus how they say they do?
+- **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
+- **Representation and imagination:** Children tend to become what they can see. What futures become thinkable — or unthinkable — depending on who is visible on the world's biggest stage?
+- **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
+
+**Key takeaway**
+Inclusion isn't just a fairness question — it's an epistemological one. Who is visible shapes what the event *means*, and whose experiences count as the human experiences sport is supposed to celebrate.
+
+**Discussion questions**
+- *If the World Cup claims to celebrate the best of humanity, what does it say that "humanity" has historically meant one gender by default?*
+- *Is a symbolic gesture of inclusion — an armband, a statement — worth making if the structure doesn't change? Or does it make things worse by creating the appearance of progress?*
+- *Does being excluded from a ritual change your relationship to the community that ritual creates?*
 
 ### Conclusion
 
