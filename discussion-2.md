@@ -18,6 +18,29 @@ Research links attending live sport with higher life satisfaction, a stronger se
 
 ---
 
+### The World Cup as Community
+
+#### Imagined communities and identity
+- Benedict Anderson’s idea: nations and fan bases are **imagined communities**—large groups who feel genuine bonds despite not meeting most members.  
+- Tajfel’s social identity theory: group membership shapes self-concept; wins and losses feel personal.
+
+#### Social ties and third places
+- **Weak vs. strong ties:** the tournament strengthens weak ties—strangers become a “we.”  
+- **Third places:** pubs and fan zones reactivate communal spaces.
+
+#### Collective effervescence and costs
+- **Durkheim’s collective effervescence:** crowd unity produces electric shared feeling.  
+- **In-group/out-group dynamics:** cohesion can increase hostility toward outsiders.  
+- **Parasocial community:** asymmetric attachments to teams, players, and other fans.
+
+**Discussion questions**
+- *What makes a group a community rather than a collection of individuals?*  
+- *Should communities aim to shape members’ character, or simply provide space for coexistence?*  
+- *Does a strong community strengthen individual freedom or limit it?*  
+- *Do we owe anything to a community we didn’t choose to be part of?*
+
+---
+
 ### The World Cup as Ritual
 
 #### Ritual features
@@ -47,26 +70,23 @@ The World Cup functions as a complex ritual system that generates collective emo
 
 ---
 
-### The World Cup as Community
+### The World Cup as Myth and Meaning
 
-#### Imagined communities and identity
-- Benedict Anderson’s idea: nations and fan bases are **imagined communities**—large groups who feel genuine bonds despite not meeting most members.  
-- Tajfel’s social identity theory: group membership shapes self-concept; wins and losses feel personal.
+**Reframe:** Every World Cup generates stories that outlast the scores. Why do humans need these stories — and what do they do to us?
 
-#### Social ties and third places
-- **Weak vs. strong ties:** the tournament strengthens weak ties—strangers become a “we.”  
-- **Third places:** pubs and fan zones reactivate communal spaces.
+**Key tensions**
+- **Myth as truth:** Myths aren't lies — they're stories that carry meaning too large for facts alone. Maradona's Hand of God isn't remembered as a rule violation; it's remembered as something about Argentina, empire, and fate. What kind of truth does that story tell that a match report cannot?
+- **Who controls the myth:** Myths feel organic but are actively shaped — by broadcasters, sponsors, and national narratives. When a nation declares itself a "golden generation," or a player is cast as a savior or a villain, who is doing the casting, and what interests does it serve?
+- **Tragedy and meaning:** The World Cup produces as many myths of failure as triumph — the missed penalty, the collapse in the final. Why are these stories often *more* culturally powerful than victories? What does that say about how humans use suffering to make meaning?
+- **The myth outlasting the moment:** Iconic World Cup moments become folklore passed between generations who weren't there. At what point does a historical event become a myth — and does something get lost, or gained, in that transformation?
 
-#### Collective effervescence and costs
-- **Durkheim’s collective effervescence:** crowd unity produces electric shared feeling.  
-- **In-group/out-group dynamics:** cohesion can increase hostility toward outsiders.  
-- **Parasocial community:** asymmetric attachments to teams, players, and other fans.
+**Key takeaway**
+The World Cup is a meaning-making machine. It takes athletic events and converts them into stories about fate, identity, and what it means to strive and fall short — which may be the oldest human project of all.
 
 **Discussion questions**
-- *What makes a group a community rather than a collection of individuals?*  
-- *Should communities aim to shape members’ character, or simply provide space for coexistence?*  
-- *Does a strong community strengthen individual freedom or limit it?*  
-- *Do we owe anything to a community we didn’t choose to be part of?*
+- *Is a myth that isn't literally true still capable of telling us something real?*
+- *Why do cultures need heroes and villains — and what happens to the real people who get cast in those roles?*
+- *Is the World Cup's mythology something that happens to us, or something we actively choose to create?*
 
 ---
 
@@ -127,32 +147,6 @@ The World Cup is an epistemic ecosystem where different ways of knowing—embodi
 
 ---
 
-### The World Cup as Myth and Meaning
-
-Anthropologically, the World Cup is a global cultural festival: a convergence of myths, symbols, rituals, kinship structures, and identity performances. It reveals how humans create meaning, belonging, and difference through sport.
-
-- **Mythic** (heroes, curses, golden generations)  
-- **Kinship** (fan communities, diasporas, invented traditions)  
-- **Symbolic** (colors, chants, mascots)  
-- **Ritualistic** (match-day routines, pilgrimage travel)  
-- **Cultural** (national styles, local football cosmologies)
-
-#### Myth-Making and Storytelling
-Every tournament generates myths: miracle runs, tragic collapses, legendary goals. These stories become **cultural memory**, passed down like folklore. Nations narrate themselves through football: Brazil’s jogo bonito, Italy’s tactical cunning, Ghana’s spiritual resilience.
-
-#### Pilgrimage and Sacred Space
-Traveling to a World Cup is a secular pilgrimage. Stadiums become **sacred sites**, fan zones become temporary villages, and match days become festivals. These spaces create liminality: ordinary life is suspended, replaced by symbolic intensity.
-
-**Key takeaway:** **The World Cup is an anthropological treasure**—a living laboratory of myth, ritual, kinship, and cultural expression. It reveals how humans create meaning through shared symbolic worlds.
-
-**Discussion questions**
-- *Are fans seeking entertainment, or a temporary transformation of identity?*  
-- *Does the World Cup preserve cultural difference, or gradually dissolve it?*
-- *Does the World Cup reveal universal human patterns, or culturally specific ones?*  
-- *Is fandom a form of modern kinship?*  
-
----
-
 ### The World Cup Political
 
 **Summary**  
@@ -184,7 +178,23 @@ The tournament amplifies grievances (labor, human rights, corruption); visible d
 
 ---
 
-Here are rewritten versions of both sections:
+### Gender, Inclusion, and the Limits of the Spectacle
+
+**Reframe:** The World Cup presents itself as universal a festival for all of humanity. What does it reveal about who actually counts as a full participant in that humanity?
+
+**Key tensions**
+- **Visibility and value:** The women's game produces comparable skill, drama, and emotional intensity, yet receives a fraction of the broadcast time, prize money, and cultural weight. What does that gap tell us about how societies actually value things versus how they say they do?
+- **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
+- **Representation and imagination:** Children tend to become what they can see. What futures become thinkable — or unthinkable — depending on who is visible on the world's biggest stage?
+- **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
+
+**Key takeaway**
+Inclusion isn't just a fairness question — it's an epistemological one. Who is visible shapes what the event *means*, and whose experiences count as the human experiences sport is supposed to celebrate.
+
+**Discussion questions**
+- *If the World Cup claims to celebrate the best of humanity, what does it say that "humanity" has historically meant one gender by default?*
+- *Is a symbolic gesture of inclusion — an armband, a statement — worth making if the structure doesn't change? Or does it make things worse by creating the appearance of progress?*
+- *Does being excluded from a ritual change your relationship to the community that ritual creates?*
 
 ---
 
@@ -207,24 +217,6 @@ The World Cup is a stress test of globalization's promises — it shows where ge
 - *Who gets to move freely in the world the World Cup creates — and who doesn't?*
 
 ---
-
-### Gender, Inclusion, and the Limits of the Spectacle
-
-**Reframe:** The World Cup presents itself as universal a festival for all of humanity. What does it reveal about who actually counts as a full participant in that humanity?
-
-**Key tensions**
-- **Visibility and value:** The women's game produces comparable skill, drama, and emotional intensity, yet receives a fraction of the broadcast time, prize money, and cultural weight. What does that gap tell us about how societies actually value things versus how they say they do?
-- **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
-- **Representation and imagination:** Children tend to become what they can see. What futures become thinkable — or unthinkable — depending on who is visible on the world's biggest stage?
-- **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
-
-**Key takeaway**
-Inclusion isn't just a fairness question — it's an epistemological one. Who is visible shapes what the event *means*, and whose experiences count as the human experiences sport is supposed to celebrate.
-
-**Discussion questions**
-- *If the World Cup claims to celebrate the best of humanity, what does it say that "humanity" has historically meant one gender by default?*
-- *Is a symbolic gesture of inclusion — an armband, a statement — worth making if the structure doesn't change? Or does it make things worse by creating the appearance of progress?*
-- *Does being excluded from a ritual change your relationship to the community that ritual creates?*
 
 ### Conclusion
 
