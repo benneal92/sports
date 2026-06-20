@@ -72,20 +72,20 @@ The World Cup functions as a complex ritual system that generates collective emo
 
 ### The World Cup as Myth and Meaning
 
-**Reframe:** Every World Cup generates stories that outlast the scores. Why do humans need these stories — and what do they do to us?
+**Reframe:** Every World Cup generates stories that outlast the scores. People crave stories and narrative!
 
 **Key tensions**
-- **Myth as truth:** Myths are not lies. They are stories that carry meaning too large for facts alone. Maradona's Hand of God is not remembered as a rule violation but as something about Argentina, empire, and fate. What kind of truth does that story tell that a match report cannot?
-- **Who controls the myth:** Myths feel organic but are actively shaped by broadcasters, sponsors, and national narratives. When a nation declares itself a "golden generation," or a player is cast as a savior or a villain, who is doing the casting, and what interests does it serve?
-- **Tragedy and meaning:** The World Cup produces as many myths of failure as triumph, the missed penalty, the collapse in the final. Why are these stories often *more* culturally powerful than victories? What does that say about how humans use suffering to make meaning?
-- **The myth outlasting the moment:** Iconic World Cup moments become folklore passed between generations who weren't there. At what point does a historical event become a myth, and does something get lost, or gained, in that transformation?
+- **Myth as truth:** Myths are stories that carry meaning too large for facts alone. 
+- **Who controls the myth:** Myths feel organic but are actively shaped by broadcasters, sponsors, and national narratives.
+- **Tragedy and meaning:** The World Cup produces as many myths of failure as triumph, the missed penalty, the collapse in the final.
+- **The myth outlasting the moment:** Iconic World Cup moments become folklore passed between generations who weren't there.
 
 **Key takeaway**
 The World Cup is a meaning-making machine. It takes athletic events and converts them into stories about fate, identity, and what it means to strive and fall short, which may be the oldest human project of all.
 
 **Discussion questions**
 - *Is a myth that isn't literally true still capable of telling us something real?*
-- *Why do cultures need heroes and villains, and what happens to the real people who get cast in those roles?*
+- *Why do cultures like heroes and villains, and what happens to the real people who get cast in those roles?*
 - *Is the World Cup's mythology something that happens to us, or something we actively choose to create?*
 
 ---
@@ -185,12 +185,12 @@ The World Cup is a political arena where symbolism, institutional power, and eco
 
 ### Gender, Inclusion, and the Limits of the Spectacle
 
-**Reframe:** The World Cup presents itself as a universal festival for all of humanity. What does it reveal about who actually counts as a full participant in that humanity?
+**Reframe:** The World Cup presents itself as a universal festival for all of humanity. The way the event plays reveals something of our cultural values and biases.
 
 **Key tensions**
-- **Visibility and value:** The women's game produces comparable skill, drama, and emotional intensity, yet receives a fraction of the broadcast time, prize money, and cultural weight. What does that gap tell us about how societies actually value things versus how they say they do?
+- **Visibility and value:** The women's game produces comparable skill, drama, and emotional intensity, yet receives a fraction of the broadcast time, prize money, and cultural weight. 
 - **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
-- **Representation and imagination:** Children tend to become what they can see. What futures become thinkable, or unthinkable, depending on who is visible on the world's biggest stage?
+- **Representation and imagination:** Children tend to become what they can see. 
 - **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
 
 **Key takeaway**
@@ -205,11 +205,11 @@ Inclusion is not just a fairness question. It is an epistemological one. Who is 
 
 ### The World Cup as Globalization
 
-**Reframe:** The World Cup does not just reflect globalization. It produces it. But what kind of world does it actually make?
+**Reframe:** The World Cup simultaneously reflects globalization and produces it.
 
 **Key tensions**
-- **Homogenization vs. hybridization:** Global broadcast formats and sponsor branding flatten local difference, yet local cultures also absorb and transform football into something new. Is the net effect convergence or creative friction?
-- **Simultaneity as politics:** Billions watching the same moment is unprecedented in human history. Does shared attention create shared humanity, or just the feeling of it while structural inequalities remain untouched?
+- **Homogenization vs. hybridization:** Global broadcast formats and sponsor branding flatten local difference, yet local cultures also absorb and transform football into something new.
+- **Simultaneity as politics:** Billions watching the same moment is unprecedented in human history. Shared attention feels like equality but it may only be the feeling of it while structural inequalities remain.
 - **Labor and mobility:** Players cross borders freely; the workers who built the stadiums often cannot. The World Cup makes visible a two-tier system of global movement.
 - **Capital flows:** Hosting rights, sponsorship, and broadcasting revenue concentrate among a small number of institutions. The "global" event has very local winners and losers.
 
