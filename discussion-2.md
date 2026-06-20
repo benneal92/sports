@@ -1,7 +1,6 @@
 ### Icebreaker question
 
 > **“What single World Cup moment so far stuck with you the most, and why?”**  
-> Research using data from over 7,000 adults in England found that people who attended a live sporting event in the past year reported greater life satisfaction, a stronger sense of meaning, and less loneliness than those who hadn't.
 
 ---
 
@@ -71,7 +70,7 @@ The World Cup functions as a complex ritual system that generates collective emo
 
 ---
 
-### The World Cup Aesthetics and Ethics
+### The World Cup Aesthetics
 
 #### The aesthetic system
 The tournament composes a coordinated sensory world—**visual**, **sonic**, **temporal**, **tactile**, and **narrative** elements—that shapes perceptions of beauty and meaning.
@@ -128,47 +127,7 @@ The World Cup is an epistemic ecosystem where different ways of knowing—embodi
 
 ---
 
-Below are **three parallel treatments—political, anthropological, and globalization—each written in the same style and structure** as your ritual, aesthetic, and epistemology pieces.  
-(And as required: **please confirm political information with trusted sources**, since political interpretation is always contested.)
-
----
-
-### The World Cup Political
-
-The World Cup is a political machine disguised as a sporting event: it distributes prestige, stages national identity, legitimates institutions, and exposes global inequalities. Politics is not an intrusion into football—it is the medium in which the tournament operates.
-
-- **Symbolic** (flags, anthems, diplomatic gestures)  
-- **Institutional** (FIFA governance, state involvement)  
-- **Geopolitical** (soft power, regional blocs, hosting bids)  
-- **Economic** (infrastructure, labor, sponsorship)  
-- **Ideological** (narratives of unity, modernity, nationalism)
-
-#### Soft Power and National Projection
-States use the World Cup to **perform modernity and competence**. Hosting becomes a diplomatic statement: “We belong on the world stage.” Success on the pitch becomes symbolic capital—an argument about national vitality. Even small gestures (handshakes, anthem behavior, armband choices) become political signals.
-
-#### FIFA as a Political Actor
-FIFA is not a neutral organizer; it is a **transnational political institution**. Its decisions about hosting, officiating, and discipline shape global narratives. Its governance structure creates a unique political order: one-country-one-vote, producing alliances and blocs that resemble international diplomacy.
-
-#### Nationalism and Identity
-The World Cup intensifies national identity. Fans enact **performative nationalism**—singing anthems, wearing colors, narrating matches as national destiny. Yet this nationalism is ambivalent: it can unify diverse populations or sharpen internal divisions about who “counts” as part of the nation.
-
-#### Protest and Dissent
-The tournament is also a stage for **counter-politics**. Fans, players, and activists use the visibility of the event to highlight injustices—labor conditions, discrimination, corruption. The pitch becomes a site where political meaning is contested, not just displayed.
-
-#### Political Economy and Inequality
-Mega-events redistribute resources: stadiums, security, tourism, and infrastructure often benefit elites while displacing marginalized communities. The World Cup reveals the **political economy of spectacle**—who pays, who profits, and who is erased.
-
-**Key takeaway:** **The World Cup is a political arena**—a site where states project power, institutions negotiate authority, and citizens contest identity. Its politics are not peripheral but constitutive of the event.
-
-**Discussion questions**
-- **Does the World Cup reflect political reality, or does it create its own political world?**  
-- **Is FIFA a sports federation, or a quasi-state with its own foreign policy?**  
-- **Does the World Cup reinforce national unity, or expose the fractures beneath it?**  
-- **Is the political meaning of the World Cup something we discover, or something we create through interpretation?**
-
----
-
-### The World Cup Anthropological
+### The World Cup as Myth and Meaning
 
 Anthropologically, the World Cup is a global cultural festival: a convergence of myths, symbols, rituals, kinship structures, and identity performances. It reveals how humans create meaning, belonging, and difference through sport.
 
@@ -181,61 +140,101 @@ Anthropologically, the World Cup is a global cultural festival: a convergence of
 #### Myth-Making and Storytelling
 Every tournament generates myths: miracle runs, tragic collapses, legendary goals. These stories become **cultural memory**, passed down like folklore. Nations narrate themselves through football: Brazil’s jogo bonito, Italy’s tactical cunning, Ghana’s spiritual resilience.
 
-#### Kinship and Belonging
-Fans form **fictive kinship groups**—tribes bound by colors, chants, and shared suffering. Diaspora communities experience the World Cup as a negotiation of identity: cheering for ancestral homelands, adopted nations, or both.
-
-#### Cultural Styles and Worldviews
-Football styles express cultural logics: collectivism vs. individualism, improvisation vs. structure, patience vs. aggression. Anthropologists read tactics as **cultural texts**—embodied philosophies shaped by history, geography, and social norms.
-
 #### Pilgrimage and Sacred Space
 Traveling to a World Cup is a secular pilgrimage. Stadiums become **sacred sites**, fan zones become temporary villages, and match days become festivals. These spaces create liminality: ordinary life is suspended, replaced by symbolic intensity.
-
-#### Global Exchange and Hybridization
-The World Cup is a site of cultural mixing: chants migrate, styles hybridize, and symbols circulate. Yet this exchange is uneven—some cultures dominate global football aesthetics, while others resist or reinterpret them.
 
 **Key takeaway:** **The World Cup is an anthropological treasure**—a living laboratory of myth, ritual, kinship, and cultural expression. It reveals how humans create meaning through shared symbolic worlds.
 
 **Discussion questions**
-- *Does the World Cup reveal universal human patterns, or culturally specific ones?*  
-- *Is fandom a form of modern kinship?*  
 - *Are fans seeking entertainment, or a temporary transformation of identity?*  
 - *Does the World Cup preserve cultural difference, or gradually dissolve it?*
+- *Does the World Cup reveal universal human patterns, or culturally specific ones?*  
+- *Is fandom a form of modern kinship?*  
+
+---
+
+### The World Cup Political
+
+**Summary**  
+The World Cup is a political machine disguised as a sporting event: it distributes prestige, stages national identity, legitimates institutions, and exposes global inequalities. 
+
+**Key points**  
+- **Symbolic politics:** flags, anthems, gestures, and player actions become diplomatic signals.  
+- **Institutional power:** FIFA’s governance and host-state involvement shape who benefits and who is heard.  
+- **Soft power:** hosting and sporting success function as national projection and reputation management.  
+- **Contestation:** protests, player statements, and fan activism turn the tournament into a visible site of dissent.  
+- **Political economy:** infrastructure, security, and sponsorship often redistribute costs and benefits unevenly.
+
+#### Soft power and state projection  
+States use hosting and performance to signal modernity, competence, and belonging on the world stage; small public acts (handshakes, armbands) carry outsized diplomatic meaning.
+
+#### FIFA and governance  
+FIFA operates as a transnational political actor: its one‑country‑one‑vote structure, bidding processes, and disciplinary choices create political alliances and shape global narratives.
+
+#### Protest, dissent, and legitimacy  
+The tournament amplifies grievances (labor, human rights, corruption); visible dissent can both challenge and be co‑opted by the event’s symbolic power.
+
+**Key takeaway**  
+**The World Cup is a political arena** where symbolism, institutional power, and economic interests intersect—its politics are constitutive, not incidental.
+
+**Discussion questions**  
+- Does the World Cup reinforce national unity, or expose underlying fractures?  
+- Is FIFA a sports federation or a quasi‑state actor with its own foreign policy?  
+- Who benefits from World Cup investments, and who is displaced or marginalized?
 
 ---
 
 ### The World Cup Globalization
 
-The World Cup is globalization in miniature: flows of people, capital, media, labor, and culture converge in a single event. It is both a product of globalization and a force that accelerates it.
+**Summary**  
+The World Cup is globalization in miniature: flows of people, capital, media, labor, and culture converge in a single event. 
 
-- **Flows** (players, fans, money, media)  
-- **Networks** (clubs, federations, sponsors)  
-- **Compression** (the world watching the same event simultaneously)  
-- **Standardization** (rules, branding, broadcast formats)  
-- **Inequality** (resource gaps, labor exploitation)
+**Key points**  
+- **Flows and networks:** players, fans, sponsors, and broadcasters form transnational circuits.  
+- **Simultaneity:** billions experience matches at the same moment, producing a rare shared temporal event.  
+- **Standardization vs. diversity:** global broadcast formats and branding standardize experience while local cultures resist or adapt.  
+- **Labor and mobility:** player migration and host‑country labor practices reveal global inequalities.  
+- **Capital and infrastructure:** stadiums and transport reflect global investment patterns and often uneven development.
 
-#### Mobility and Labor
-Players are global workers: trained in one country, employed in another, representing a third. The World Cup exposes the **global labor market** of football—migration patterns, talent pipelines, and economic disparities.
+#### Media, simultaneity, and cultural exchange  
+Global media create a standardized spectacle and enable cultural exchange, but also raise questions about authenticity, commercialization, and cultural appropriation.
 
-#### Media and Simultaneity
-Billions watch the same match at the same moment. This creates **global simultaneity**, a shared temporal experience rare in modern life. Media corporations shape this experience, producing a standardized global product.
+#### Economic integration and inequality  
+Hosting and sponsorship tie the tournament to global capital; benefits (tourism, contracts) often concentrate among elites while costs (displacement, labor exploitation) fall on vulnerable groups.
 
-#### Capital and Infrastructure
-Hosting requires massive investment, often financed through global capital. Stadiums, transport systems, and security apparatuses reflect **global economic integration**—and the inequalities embedded within it.
+**Key takeaway**  
+**The World Cup is a globalization engine**—it produces shared global experiences while exposing and reproducing structural inequalities.
 
-#### Cultural Exchange and Tension
-The World Cup circulates cultural symbols: chants, memes, celebrations, fashion. Yet globalization also produces tension: debates about authenticity, commercialization, and cultural appropriation.
-
-#### Governance and Power
-FIFA operates as a global regulator, enforcing rules across borders. Its decisions reflect the **political economy of globalization**—alliances, lobbying, and the distribution of global prestige.
-
-**Key takeaway:** **The World Cup is a globalization engine**—a site where global flows converge, collide, and reshape each other. It produces shared experiences while revealing deep structural inequalities.
-
-**Discussion questions**
-- *Does the World Cup globalize football, or does football globalize the world?*  
-- *Is global simultaneity a form of unity, or a form of homogenization?*  
-- *Does globalization enrich football culture, or dilute it?*  
-- *Is the World Cup a symbol of global unity, or a mirror of global hierarchy?*
+**Discussion questions**  
+- Does the World Cup globalize football, or does football globalize the world?  
+- Is global simultaneity a form of unity or a force for homogenization?  
+- How can governance and policy make globalization’s benefits more equitable?
 
 ---
 
+### Gender Inclusion and Accessibility
+
+- **Visibility and investment:** Men’s tournaments receive more broadcast time, sponsorship, and marketing, which shapes resources and role models.  
+- **Safety and experience:** Harassment and inadequate stewarding deter women and LGBTQ+ fans; clear codes of conduct and reporting systems reduce risk.  
+- **Physical and sensory access:** Accessible seating, transport, ticketing, captioning, and audio description determine whether disabled fans can attend and participate.  
+- **Representation in governance:** Diverse leadership in federations and organizing committees changes priorities on scheduling, safety, and accessibility.  
+- **Intersectionality:** Gender interacts with race, class, migration status, and disability; policies must address overlapping barriers, not single categories.
+
+**Practical measures**
+- **Enforceable commitments:** Inclusion clauses in host contracts and broadcast deals tied to measurable targets.  
+- **Design standards:** Mandatory accessibility audits for venues and transport, plus sensory‑friendly spaces.  
+- **Safety systems:** Trained stewards, confidential reporting, and survivor‑centered responses.  
+- **Transparency:** Public reporting on media airtime, sponsorship distribution, harassment incidents, and governance diversity.
+
+**Key takeaway**  
+**Inclusion is structural:** make it measurable, enforceable, and resourced so the World Cup’s social benefits reach everyone.
+
+**Discussion questions**
+- *Who is visible at the World Cup and who remains invisible, and why does that visibility matter?
+
+
 ### Conclusion
+
+Research links attending live sport with higher life satisfaction, a stronger sense of meaning, and reduced loneliness.
+
+The World Cup functions as a complex ritual system that generates collective emotion, stages identity transitions, and is a contested arena of symbolic power.
