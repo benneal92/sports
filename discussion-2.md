@@ -83,41 +83,6 @@ The World Cup functions as a complex ritual system that generates collective emo
 
 ---
 
-### The World Cup as Epistemology
-
-#### Ways of knowing
-- **Embodied:** skill, timing, proprioception.  
-- **Tacit:** intuition and "feel."  
-- **Collective:** team chemistry and shared automatisms.  
-- **Cultural:** national coaching traditions.  
-- **Affective:** pressure, confidence, fear.
-
-#### Embodied and tacit knowledge
-Players rely on **knowing-how**, fast and non-conceptual processing and motor memory that can't be fully captured in propositional rules.
-
-#### Collective intelligence and translation
-Teams form shared mental models; national teams face the challenge of building collective cognition quickly. Cross-cultural player mixes require translation of tacit norms.
-
-#### Play styles
-- Brazil → joy, improvisation, expressive freedom
-- Germany → structure, efficiency, collective discipline
-- Argentina → passion, suffering, transcendence 
-- Japan → harmony, precision, respect
-- Morocco → unity, diaspora pride, resilience
-
-**Key takeaway**  
-The World Cup is an epistemic ecosystem where different ways of knowing, including embodied skill, tacit intuition, collective models, and mediated interpretation, collide and transform.
-
-**Discussion questions**
-- *Does too much analysis undermine the knowledge that makes great play possible?*  
-- *Is football knowledge something you can state, or something you can only do?*  
-- *Is intuition a higher form of knowledge in sport, or simply fast unconscious calculation?*  
-- *Can a team truly "know" something if its players come from incompatible football cultures?*  
-- *Is the World Cup a test of who knows the most, or who knows in the right way at the right moment?*
-
----
-
-
 ### The World Cup as Myth and Meaning
 
 **Reframe:** Every World Cup generates stories that outlast the scores. People crave stories and narrative!
@@ -165,6 +130,40 @@ The World Cup is an aesthetic economy where professional design and fan improvis
 - *Can something be a genuine aesthetic experience and a distraction at the same time?* 
 - *Does the beauty of the event keep us from looking critically at FIFA?* 
 - *Does beauty have a moral responsibility?*
+
+---
+
+### The World Cup as Epistemology
+
+#### Ways of knowing
+- **Embodied:** skill, timing, proprioception.  
+- **Tacit:** intuition and "feel."  
+- **Collective:** team chemistry and shared automatisms.  
+- **Cultural:** national coaching traditions.  
+- **Affective:** pressure, confidence, fear.
+
+#### Embodied and tacit knowledge
+Players rely on **knowing-how**, fast and non-conceptual processing and motor memory that can't be fully captured in propositional rules.
+
+#### Collective intelligence and translation
+Teams form shared mental models; national teams face the challenge of building collective cognition quickly. Cross-cultural player mixes require translation of tacit norms.
+
+#### Play styles
+- Brazil → joy, improvisation, expressive freedom
+- Germany → structure, efficiency, collective discipline
+- Argentina → passion, suffering, transcendence 
+- Japan → harmony, precision, respect
+- Morocco → unity, diaspora pride, resilience
+
+**Key takeaway**  
+The World Cup is an epistemic ecosystem where different ways of knowing, including embodied skill, tacit intuition, collective models, and mediated interpretation, collide and transform.
+
+**Discussion questions**
+- *Does too much analysis undermine the knowledge that makes great play possible?*  
+- *Is football knowledge something you can state, or something you can only do?*  
+- *Is intuition a higher form of knowledge in sport, or simply fast unconscious calculation?*  
+- *Can a team truly "know" something if its players come from incompatible football cultures?*  
+- *Is the World Cup a test of who knows the most, or who knows in the right way at the right moment?*
 
 ---
 
