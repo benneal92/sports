@@ -104,7 +104,7 @@ The World Cup is a meaning-making machine. It takes athletic events and converts
 
 ### The World Cup Aesthetics
 
-The World Cup is designed to produce beauty, intensity, and meaning.
+The World Cup is an aesthetic economy where professional design and fan improvisation interact, and where beauty is entangled with identity and power. It is produced in the service of an agenda.
 
 #### The aesthetic system
 The tournament composes a coordinated sensory world, encompassing **visual**, **sonic**, **temporal**, **tactile**, and **narrative** elements, that shapes perceptions of beauty and meaning.
@@ -122,9 +122,6 @@ Broadcast framing, replays, and staging turn athletic movement into spectacle; c
 - **Soundscape:** chants and anthems structure emotional arcs.  
 - **Materiality:** pitch, ball, and stadium design shape sensory judgments.  
 - **Mediation and hyperreality:** social media and highlights create a curated, sometimes amplified, version of the event.
-
-**Key takeaway**  
-The World Cup is an aesthetic economy where professional design and fan improvisation interact, and where beauty is entangled with identity and power. It is produced in the service of an agenda.
 
 **Discussion questions**
 - *If you know the spectacle was engineered to make you feel something, can you still trust the feeling?*
