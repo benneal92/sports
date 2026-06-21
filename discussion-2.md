@@ -231,6 +231,14 @@ The World Cup tends to presents itself as a universal festival for all of humani
 - **Representation and imagination:** Young people are influenced by what they can see. 
 - **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
 
+- **Culture is enacted, not discovered** — it exists because people perform it.
+- **Meaning is socially constructed** — values, norms, and identities are made through collective agreement.
+- **Rituals create culture** — repeated actions become shared expectations.
+- **Narratives shape culture** — stories we tell about ourselves become who we are.
+- **Embodied practices** — gestures, habits, styles, and behaviors transmit culture more than abstract ideas.
+- **Culture is iterative** — each generation modifies what it inherits.
+- **Culture is relational** — it emerges between people, not inside individuals.
+
 **Key takeaway**
  Who is visible shapes what the event *means*, and whose experiences count as the human experiences sport is supposed to celebrate.
 
