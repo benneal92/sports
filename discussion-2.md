@@ -93,7 +93,7 @@ Every World Cup generates stories that outlast the scores. People crave stories 
 - **The Ritual Ordeal** - High‑stakes moments treated as tests of identity and worth
 
 **Key tensions**
-- **Myth as truth:** Myths are stories that carry meaning too large for facts alone. 
+- **Myth as truth:** Myths are stories that can carry meaning too large for facts alone. 
 - **Who controls the myth:** Myths feel organic but are actively shaped by broadcasters, sponsors, and national narratives.
 - **Tragedy and meaning:** The World Cup produces as many myths of failure as triumph, the missed penalty, the collapse in the final.
 - **The myth outlasting the moment:** Iconic World Cup moments become folklore passed between generations who weren't there.
