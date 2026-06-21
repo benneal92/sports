@@ -7,14 +7,14 @@
 Sports are excellent at improving the happiness of societies.
 
 **Key findings**
-- **Attending live events:** Research consistently links attendance at live sporting events with higher life satisfaction, stronger sense of meaning, and reduced loneliness.
+- **Attending live events:** higher life satisfaction, stronger sense of meaning, and reduced loneliness.
 - **Playing vs. watching:** Young adults who play sport report significantly higher happiness than non-participants, but *watching* also produces measurable wellbeing gains, particularly when watched with others. 
-- **Anticipation and savoring:** 
-- **Winning and losing:** Surprisingly, research shows that fan wellbeing after a loss recovers quickly when the loss is experienced collectively. Shared suffering appears to be almost as bonding as shared triumph. What damages wellbeing is not losing but *watching alone*.
+- **Winning and losing:** Surprisingly, research shows that fan wellbeing after a loss recovers quickly when the loss is experienced collectively. Shared loses appears to be almost as bonding as shared triumph. What damages wellbeing is not losing but *watching alone*.
+- **Anticipation and savoring:** People look forward to the season 
 
 **The World Cup as a wellbeing event**
-- The World Cup is unusual among human experiences in that it compresses an enormous range of emotional states 
-- People don't just feel things during the tournament — they *remember* it as a story.
+- Is unusual as it is a public space where people can experience powerful emotions 
+- These experiences tend to create stronger memories they *remember* as a kind of story
  
 **The shadow side**
 - **Gambling and addiction** 
@@ -56,6 +56,8 @@ The World Cup is a concentrated dose of some of the conditions that most reliabl
 
 ### The World Cup as Ritual
 
+The World Cup functions as a complex ritual system that generates collective emotion, stages identity transitions, and serves as a contested arena of symbolic power.
+
 #### Ritual features
 - **Periodic:** every four years.  
 - **Symbolic:** flags, anthems, kits.  
@@ -72,9 +74,6 @@ The World Cup is a concentrated dose of some of the conditions that most reliabl
 - Rituals legitimate authority through ceremonies and anthems, and can be subverted by fans through chants and banners.  
 - Modern rituals are secular and mediated, with broadcasters and platforms co-producing ritual meaning.
 
-**Key takeaway**  
-The World Cup functions as a complex ritual system that generates collective emotion, stages identity transitions, and serves as a contested arena of symbolic power.
-
 **Discussion questions**
 - *Do rituals reveal something essential about human nature, or are they cultural accidents?*  
 - *Are rituals irrational by nature, or do they express a different kind of rationality?*  
@@ -85,7 +84,7 @@ The World Cup functions as a complex ritual system that generates collective emo
 
 ### The World Cup as Myth and Meaning
 
-**Reframe:** Every World Cup generates stories that outlast the scores. People crave stories and narrative!
+Every World Cup generates stories that outlast the scores. People crave stories and narrative!
 
 **Key tensions**
 - **Myth as truth:** Myths are stories that carry meaning too large for facts alone. 
@@ -104,6 +103,8 @@ The World Cup is a meaning-making machine. It takes athletic events and converts
 ---
 
 ### The World Cup Aesthetics
+
+The World Cup is designed to produce beauty, intensity, and meaning.
 
 #### The aesthetic system
 The tournament composes a coordinated sensory world, encompassing **visual**, **sonic**, **temporal**, **tactile**, and **narrative** elements, that shapes perceptions of beauty and meaning.
