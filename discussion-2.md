@@ -1,20 +1,33 @@
-### Icebreaker question
-
 > **"What single World Cup moment so far stuck with you the most, and why?"**  
 
 ---
 
 ### Happiness and Wellbeing
 
-**Summary**  
-Research links attending live sport with higher life satisfaction, a stronger sense of meaning, and reduced loneliness. Young adults who play sports also report higher happiness.
+Sports are excellent at improving the happiness of societies.
 
-**Key points**
-- **Empirical finding:** attending live events correlates with greater wellbeing.  
-- **Practical implication:** sport can be a public-health and social tool for reducing isolation.
+**Key findings**
+- **Attending live events:** Research consistently links attendance at live sporting events with higher life satisfaction, stronger sense of meaning, and reduced loneliness.
+- **Playing vs. watching:** Young adults who play sport report significantly higher happiness than non-participants, but *watching* also produces measurable wellbeing gains, particularly when watched with others. 
+- **Anticipation and savoring:** 
+- **Winning and losing:** Surprisingly, research shows that fan wellbeing after a loss recovers quickly when the loss is experienced collectively. Shared suffering appears to be almost as bonding as shared triumph. What damages wellbeing is not losing but *watching alone*.
+
+**The World Cup as a wellbeing event**
+- The World Cup is unusual among human experiences in that it compresses an enormous range of emotional states 
+- People don't just feel things during the tournament — they *remember* it as a story.
+ 
+**The shadow side**
+- **Gambling and addiction** 
+- **Anxiety and nervous systems**
+- **Exclusion** 
+- **Post-tournament blues**
+
+**Key takeaway**
+
+The World Cup is a concentrated dose of some of the conditions that most reliably produce human flourishing — shared purpose, narrative, ritual, communal emotion, and the feeling of belonging to something larger than oneself. But those same conditions also reveal who is included in the 'we' and who isn't, and at what psychological cost the spectacle is sometimes produced.
 
 **Discussion questions**
-- *Is happiness primarily an individual matter, or does it depend on the quality of one's relationships and community?*
+- *Is the happiness you experience as part of a crowd the same kind of happiness as happiness you feel alone or is it different somehow?*
 
 ---
 
@@ -70,6 +83,41 @@ The World Cup functions as a complex ritual system that generates collective emo
 
 ---
 
+### The World Cup as Epistemology
+
+#### Ways of knowing
+- **Embodied:** skill, timing, proprioception.  
+- **Tacit:** intuition and "feel."  
+- **Collective:** team chemistry and shared automatisms.  
+- **Cultural:** national coaching traditions.  
+- **Affective:** pressure, confidence, fear.
+
+#### Embodied and tacit knowledge
+Players rely on **knowing-how**, fast and non-conceptual processing and motor memory that can't be fully captured in propositional rules.
+
+#### Collective intelligence and translation
+Teams form shared mental models; national teams face the challenge of building collective cognition quickly. Cross-cultural player mixes require translation of tacit norms.
+
+#### Play styles
+- Brazil → joy, improvisation, expressive freedom
+- Germany → structure, efficiency, collective discipline
+- Argentina → passion, suffering, transcendence 
+- Japan → harmony, precision, respect
+- Morocco → unity, diaspora pride, resilience
+
+**Key takeaway**  
+The World Cup is an epistemic ecosystem where different ways of knowing, including embodied skill, tacit intuition, collective models, and mediated interpretation, collide and transform.
+
+**Discussion questions**
+- *Does too much analysis undermine the knowledge that makes great play possible?*  
+- *Is football knowledge something you can state, or something you can only do?*  
+- *Is intuition a higher form of knowledge in sport, or simply fast unconscious calculation?*  
+- *Can a team truly "know" something if its players come from incompatible football cultures?*  
+- *Is the World Cup a test of who knows the most, or who knows in the right way at the right moment?*
+
+---
+
+
 ### The World Cup as Myth and Meaning
 
 **Reframe:** Every World Cup generates stories that outlast the scores. People crave stories and narrative!
@@ -120,38 +168,6 @@ The World Cup is an aesthetic economy where professional design and fan improvis
 
 ---
 
-### The World Cup as Epistemology
-
-#### Ways of knowing
-- **Embodied:** skill, timing, proprioception.  
-- **Tacit:** intuition and "feel."  
-- **Collective:** team chemistry and shared automatisms.  
-- **Cultural:** national coaching traditions.  
-- **Affective:** pressure, confidence, fear.
-
-#### Embodied and tacit knowledge
-Players rely on **knowing-how**, fast and non-conceptual processing and motor memory that can't be fully captured in propositional rules.
-
-#### Collective intelligence and translation
-Teams form shared mental models; national teams face the challenge of building collective cognition quickly. Cross-cultural player mixes require translation of tacit norms.
-
-#### Pressure, analysis, and narrative
-- High pressure can distort embodied knowledge (e.g., penalties).  
-- Data and analysis must be balanced with spontaneity to preserve play-making instincts.  
-- Fans and media construct narratives that shape collective perception and bias.
-
-**Key takeaway**  
-The World Cup is an epistemic ecosystem where different ways of knowing, including embodied skill, tacit intuition, collective models, and mediated interpretation, collide and transform.
-
-**Discussion questions**
-- *Is football knowledge something you can state, or something you can only do?*  
-- *Is intuition a higher form of knowledge in sport, or simply fast unconscious calculation?*  
-- *Can a team truly "know" something if its players come from incompatible football cultures?*  
-- *Does too much analysis undermine the knowledge that makes great play possible?*  
-- *Is the World Cup a test of who knows the most, or who knows in the right way at the right moment?*
-
----
-
 ### The World Cup Political
 
 **Summary**  
@@ -183,43 +199,45 @@ The World Cup is a political arena where symbolism, institutional power, and eco
 
 ---
 
-### Gender, Inclusion, and the Limits of the Spectacle
+### The World Cup as Globalization
 
-**Reframe:** The World Cup presents itself as a universal festival for all of humanity. The way the event plays reveals something of our cultural values and biases.
+The World Cup simultaneously reflects globalization and produces it.
 
 **Key tensions**
-- **Visibility and value:** The women's game produces comparable skill, drama, and emotional intensity, yet receives a fraction of the broadcast time, prize money, and cultural weight. 
-- **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
-- **Representation and imagination:** Children tend to become what they can see. 
-- **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
+- **Simultaneity and its limits:** The World Cup creates something historically unprecedented — billions of strangers sharing the same emotional moment in real time. But shared attention may not be the same as shared reality.
+- **Hybridization vs. extraction:** Football genuinely hybridizes — Japanese pressing, South American *ginga*, African technical invention have all shaped how the global game is played. But European clubs systematically recruit the best players from the periphery, absorb their innovations, and export the synthesis as a universal style. Creativity flows inward; prestige and money flow back out. This is extraction repackaged as cosmopolitanism.
+- **The diaspora dimension:** The World Cup creates moments where hyphenated identities don't need to be resolved — where the in-between becomes a place of belonging rather than friction.
+- **The algorithmic World Cup:** The attention economy has learned to monetize the feeling of sharing without requiring the substance of it.
+- **Location as argument:** Hosting in the United States, Canada, and Mexico is not neutral — it reflects where football's commercial center of gravity is shifting, even as South America and Europe remain the cultural and competitive heartlands. FIFA's expansion to 48 teams follows the same logic: inclusion framed as democratization, structured as market development.
 
-**Key takeaway**
-Inclusion is not just a fairness question. It is an epistemological one. Who is visible shapes what the event *means*, and whose experiences count as the human experiences sport is supposed to celebrate.
 
 **Discussion questions**
-- *If the World Cup claims to celebrate the best of humanity, what does it say that "humanity" has historically meant one gender by default?*
-- *Is a symbolic gesture of inclusion, an armband or a statement, worth making if the structure doesn't change? Or does it make things worse by creating the appearance of progress?*
-- *Does being excluded from a ritual change your relationship to the community that ritual creates?*
+- *Who gets to be the author of globalization's story and does the World Cup reveal that authorship or conceal it?*
+- *When your experience of the World Cup is algorithmically curated, are you participating in a shared global event or a personalized simulation of one?*
+- *Is a world that shares the same sporting spectacle more unified, or just more efficiently marketed to?*
 
 ---
 
-### The World Cup as Globalization
+### Cultural Creation, Inclusion, and the Limits of the Spectacle
 
-**Reframe:** The World Cup simultaneously reflects globalization and produces it.
+The World Cup tends to presents itself as a universal festival for all of humanity. 
+- Lense to understand cultures and see values projected
+- The hosting country makes a huge difference
 
 **Key tensions**
-- **Homogenization vs. hybridization:** Global broadcast formats and sponsor branding flatten local difference, yet local cultures also absorb and transform football into something new.
-- **Simultaneity as politics:** Billions watching the same moment is unprecedented in human history. Shared attention feels like equality but it may only be the feeling of it while structural inequalities remain.
-- **Labor and mobility:** Players cross borders freely; the workers who built the stadiums often cannot. The World Cup makes visible a two-tier system of global movement.
-- **Capital flows:** Hosting rights, sponsorship, and broadcasting revenue concentrate among a small number of institutions. The "global" event has very local winners and losers.
+- ****
+- **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
+- **Visibility and value:** The women's game receives a fraction of the broadcast time, prize money, and cultural weight. 
+- **Representation and imagination:** Young people are influenced by what they can see. 
+- **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
 
 **Key takeaway**
-The World Cup is a stress test of globalization's promises. It shows where genuine connection forms and where the rhetoric of unity masks persistent inequality.
+ Who is visible shapes what the event *means*, and whose experiences count as the human experiences sport is supposed to celebrate.
 
 **Discussion questions**
-- *If you can feel genuine solidarity with someone on the other side of the world for 90 minutes, does that solidarity mean anything beyond the final whistle?*
-- *Is a world that shares the same sporting spectacle more unified, or just more efficiently marketed to?*
-- *Who gets to move freely in the world the World Cup creates, and who doesn't?*
+- *What values do you think the World Cup reinforces, intentionally or not?*
+- *Do you think sport can change culture, or does it mostly reflect it?*
+- *What’s the difference between being included and being accommodated?*
 
 ---
 
