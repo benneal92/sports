@@ -170,7 +170,6 @@ The World Cup is an epistemic ecosystem where different ways of knowing, includi
 
 ### The World Cup Political
 
-**Summary**  
 The World Cup is a political machine disguised as a sporting event. It distributes prestige, stages national identity, legitimates institutions, and exposes global inequalities.
 
 **Key points**  
@@ -204,12 +203,15 @@ The World Cup is a political arena where symbolism, institutional power, and eco
 The World Cup simultaneously reflects globalization and produces it.
 
 **Key tensions**
-- **Simultaneity and its limits:** The World Cup creates something historically unprecedented — billions of strangers sharing the same emotional moment in real time. But shared attention may not be the same as shared reality.
-- **Hybridization vs. extraction:** Football genuinely hybridizes — Japanese pressing, South American *ginga*, African technical invention have all shaped how the global game is played. But European clubs systematically recruit the best players from the periphery, absorb their innovations, and export the synthesis as a universal style. Creativity flows inward; prestige and money flow back out. This is extraction repackaged as cosmopolitanism.
-- **The diaspora dimension:** The World Cup creates moments where hyphenated identities don't need to be resolved — where the in-between becomes a place of belonging rather than friction.
+- **Simultaneity and its limits:** Shared attention may not be the same as shared reality
+- **Hybridization vs. extraction:** Learning from each other or pulling players into your existing system
+- **The diaspora dimension:** The World Cup creates moments with hyphenated identities
 - **The algorithmic World Cup:** The attention economy has learned to monetize the feeling of sharing without requiring the substance of it.
 - **Location as argument:** Hosting in the United States, Canada, and Mexico is not neutral — it reflects where football's commercial center of gravity is shifting, even as South America and Europe remain the cultural and competitive heartlands. FIFA's expansion to 48 teams follows the same logic: inclusion framed as democratization, structured as market development.
 
+- **Coexistence of multiple cultures** — multiculturalism describes societies where many cultural traditions live side by side .
+- **Value pluralism** — societies must recognize multiple, sometimes conflicting, values as legitimate (Isaiah Berlin) .
+- **Identity is shaped through interaction** — multicultural settings force groups to articulate, defend, and reinterpret their cultural identities.
 
 **Discussion questions**
 - *Who gets to be the author of globalization's story and does the World Cup reveal that authorship or conceal it?*
