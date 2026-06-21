@@ -92,6 +92,13 @@ Every World Cup generates stories that outlast the scores. People crave stories 
 - **Tragedy and meaning:** The World Cup produces as many myths of failure as triumph, the missed penalty, the collapse in the final.
 - **The myth outlasting the moment:** Iconic World Cup moments become folklore passed between generations who weren't there.
 
+
+- **The Heroic Cycle** - The rise, testing, triumph, or downfall of a central figure or team. This includes emergence, redemption, tragedy, and the fulfillment or frustration of destiny.
+- **The Collective Epic** - The nation or team as protagonist — unity, sacrifice, suffering, and endurance. This is where underdog stories, national character narratives, and the “beautiful ideal” of play reside.
+- **The Drama of Fate** - Patterns interpreted as destiny
+- **The Moralized Conflict** - Rivalries, villains, and antagonists. 
+- **The Ritual Ordeal** - High‑stakes moments treated as tests of identity and worth
+
 **Key takeaway**
 The World Cup is a meaning-making machine. It takes athletic events and converts them into stories about fate, identity, and what it means to strive and fall short, which may be the oldest human project of all.
 
