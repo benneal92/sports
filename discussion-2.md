@@ -86,17 +86,17 @@ The World Cup functions as a complex ritual system that generates collective emo
 
 Every World Cup generates stories that outlast the scores. People crave stories and narrative!
 
-**Key tensions**
-- **Myth as truth:** Myths are stories that carry meaning too large for facts alone. 
-- **Who controls the myth:** Myths feel organic but are actively shaped by broadcasters, sponsors, and national narratives.
-- **Tragedy and meaning:** The World Cup produces as many myths of failure as triumph, the missed penalty, the collapse in the final.
-- **The myth outlasting the moment:** Iconic World Cup moments become folklore passed between generations who weren't there.
-
 **General Patterns**
 - **The Heroic Cycle** - The rise, testing, triumph, or downfall of a central figure or team. This includes emergence, redemption, tragedy, and the fulfillment or frustration of destiny.
 - **The Collective Epic** - The nation or team as protagonist
 - **The Moralized Conflict** - Team Rivalries and antagonists between individual players
 - **The Ritual Ordeal** - High‑stakes moments treated as tests of identity and worth
+
+**Key tensions**
+- **Myth as truth:** Myths are stories that carry meaning too large for facts alone. 
+- **Who controls the myth:** Myths feel organic but are actively shaped by broadcasters, sponsors, and national narratives.
+- **Tragedy and meaning:** The World Cup produces as many myths of failure as triumph, the missed penalty, the collapse in the final.
+- **The myth outlasting the moment:** Iconic World Cup moments become folklore passed between generations who weren't there.
 
 **Key takeaway**
 The World Cup is a meaning-making machine. It takes athletic events and converts them into stories about fate, identity, and what it means to strive and fall short, which may be the oldest human project of all.
