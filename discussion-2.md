@@ -103,6 +103,7 @@ The World Cup is a meaning-making machine. It takes athletic events and converts
 
 **Discussion questions**
 - *Is a myth that isn't literally true still capable of telling us something real?*
+- *Do you think there will be a time people wont need myth any more?*
 - *Why do cultures like heroes and villains, and what happens to the real people who get cast in those roles?*
 - *Is the World Cup's mythology something that happens to us, or something we actively choose to create?*
 
