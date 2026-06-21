@@ -136,6 +136,8 @@ The World Cup is an aesthetic economy where professional design and fan improvis
 
 ### The World Cup as Epistemology
 
+The World Cup is an epistemic ecosystem where different ways of knowing, including embodied skill, tacit intuition, collective models, and mediated interpretation, collide and transform.
+
 #### Ways of knowing
 - **Embodied:** skill, timing, proprioception.  
 - **Tacit:** intuition and "feel."  
@@ -155,9 +157,6 @@ Teams form shared mental models; national teams face the challenge of building c
 - Argentina → passion, suffering, transcendence 
 - Japan → harmony, precision, respect
 - Morocco → unity, diaspora pride, resilience
-
-**Key takeaway**  
-The World Cup is an epistemic ecosystem where different ways of knowing, including embodied skill, tacit intuition, collective models, and mediated interpretation, collide and transform.
 
 **Discussion questions**
 - *Does too much analysis undermine the knowledge that makes great play possible?*  
@@ -202,16 +201,16 @@ The World Cup is a political arena where symbolism, institutional power, and eco
 
 The World Cup simultaneously reflects globalization and produces it.
 
+- **Coexistence of multiple cultures** — multiculturalism describes societies where many cultural traditions live side by side
+- **Value pluralism** — societies must recognize multiple, sometimes conflicting, values as legitimate
+- **Identity is shaped through interaction** — multicultural settings force groups to articulate, defend, and reinterpret their cultural identities
+
 **Key tensions**
 - **Simultaneity and its limits:** Shared attention may not be the same as shared reality
 - **Hybridization vs. extraction:** Learning from each other or pulling players into your existing system
 - **The diaspora dimension:** The World Cup creates moments with hyphenated identities
 - **The algorithmic World Cup:** The attention economy has learned to monetize the feeling of sharing without requiring the substance of it.
 - **Location as argument:** Hosting in the United States, Canada, and Mexico is not neutral — it reflects where football's commercial center of gravity is shifting, even as South America and Europe remain the cultural and competitive heartlands. FIFA's expansion to 48 teams follows the same logic: inclusion framed as democratization, structured as market development.
-
-- **Coexistence of multiple cultures** — multiculturalism describes societies where many cultural traditions live side by side .
-- **Value pluralism** — societies must recognize multiple, sometimes conflicting, values as legitimate (Isaiah Berlin) .
-- **Identity is shaped through interaction** — multicultural settings force groups to articulate, defend, and reinterpret their cultural identities.
 
 **Discussion questions**
 - *Who gets to be the author of globalization's story and does the World Cup reveal that authorship or conceal it?*
@@ -226,13 +225,6 @@ The World Cup tends to presents itself as a universal festival for all of humani
 - Lense to understand cultures and see values projected
 - The hosting country makes a huge difference
 
-**Key tensions**
-- ****
-- **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
-- **Visibility and value:** The women's game receives a fraction of the broadcast time, prize money, and cultural weight. 
-- **Representation and imagination:** Young people are influenced by what they can see. 
-- **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
-
 - **Culture is enacted, not discovered** — it exists because people perform it.
 - **Meaning is socially constructed** — values, norms, and identities are made through collective agreement.
 - **Rituals create culture** — repeated actions become shared expectations.
@@ -240,6 +232,14 @@ The World Cup tends to presents itself as a universal festival for all of humani
 - **Embodied practices** — gestures, habits, styles, and behaviors transmit culture more than abstract ideas.
 - **Culture is iterative** — each generation modifies what it inherits.
 - **Culture is relational** — it emerges between people, not inside individuals.
+
+**Key tensions**
+- ****
+- **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
+- **Visibility and value:** The women's game receives a fraction of the broadcast time, prize money, and cultural weight. 
+- **Representation and imagination:** Young people are influenced by what they can see. 
+- **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
+
 
 **Key takeaway**
  Who is visible shapes what the event *means*, and whose experiences count as the human experiences sport is supposed to celebrate.
@@ -256,3 +256,4 @@ The World Cup tends to presents itself as a universal festival for all of humani
 Research links attending live sport with higher life satisfaction, a stronger sense of meaning, and reduced loneliness.
 
 The World Cup functions as a complex ritual system that generates collective emotion, stages identity transitions, and is a contested arena of symbolic power.
+
