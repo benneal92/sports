@@ -160,10 +160,9 @@ Teams form shared mental models; national teams face the challenge of building c
 
 **Discussion questions**
 - *Do you think intuition is a higher form of knowledge?*  
-- *Is the World Cup a test of who knows the most, or who knows in the right way at the right moment?*
+- *Is the World Cup a test of who knows the most, or who applies knowledge in the right way at the right moment?*
 - *Do you see any parallels in theories of truth or epistemology in the general sense?*
 - *Does too much analysis undermine the knowledge that makes great play possible?*  
-- *Can a team truly "know" something if its players come from incompatible football cultures?*  
 
 ---
 
@@ -237,7 +236,7 @@ The World Cup tends to presents itself as a universal festival for all of humani
 - ****
 - **Belonging and exclusion:** For some fans, attending a World Cup means navigating harassment, inaccessible venues, or hostility from host nations' laws. The "global festival" is not equally welcoming to everyone present.
 - **Visibility and value:** The women's game receives a fraction of the broadcast time, prize money, and cultural weight. 
-- **Representation and imagination:** Young people are influenced by what they can see. 
+- **Representation and imagination:** People are influenced by what they can see. 
 - **Reform vs. spectacle:** When institutions make inclusion gestures (rainbow armbands, diversity statements) without structural change, does that visibility help or actively substitute for the harder work?
 
 
