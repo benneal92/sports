@@ -151,7 +151,7 @@ Players rely on **knowing-how**, fast and non-conceptual processing and motor me
 #### Collective intelligence and translation
 Teams form shared mental models; national teams face the challenge of building collective cognition quickly. Cross-cultural player mixes require translation of tacit norms.
 
-#### Play styles
+#### Play styles Abstract but also Tactical
 - Brazil → joy, improvisation, expressive freedom
 - Germany → structure, efficiency, collective discipline
 - Argentina → passion, suffering, transcendence 
@@ -159,11 +159,11 @@ Teams form shared mental models; national teams face the challenge of building c
 - Morocco → unity, diaspora pride, resilience
 
 **Discussion questions**
-- *Does too much analysis undermine the knowledge that makes great play possible?*  
-- *Is football knowledge something you can state, or something you can only do?*  
-- *Is intuition a higher form of knowledge in sport, or simply fast unconscious calculation?*  
-- *Can a team truly "know" something if its players come from incompatible football cultures?*  
+- *Do you think intuition is a higher form of knowledge?*  
 - *Is the World Cup a test of who knows the most, or who knows in the right way at the right moment?*
+- *Do you see any parallels in theories of truth or epistemology in the general sense?*
+- *Does too much analysis undermine the knowledge that makes great play possible?*  
+- *Can a team truly "know" something if its players come from incompatible football cultures?*  
 
 ---
 
